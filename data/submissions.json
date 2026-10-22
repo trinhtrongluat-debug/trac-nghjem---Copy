@@ -1,0 +1,7320 @@
+[
+  {
+    "id": "SUB-1792625345633",
+    "examId": "TEST-8802",
+    "studentName": "Mai anh",
+    "studentClass": "",
+    "studentId": "",
+    "score": 0.12,
+    "totalQuestions": 84,
+    "correctCount": 1,
+    "timeSpentSeconds": 80,
+    "violations": 0,
+    "attempt": 1,
+    "timestamp": "2026-10-21T23:21:35.975Z",
+    "answers": {
+      "q-21": "B"
+    },
+    "questionSnapshots": [
+      {
+        "questionId": "q-4",
+        "questionNumber": 1,
+        "partTitle": "Part 1. Listen and number",
+        "text": "Câu 4",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Phương án C"
+          },
+          {
+            "id": "B",
+            "text": "Phương án A"
+          },
+          {
+            "id": "C",
+            "text": "Phương án D"
+          },
+          {
+            "id": "D",
+            "text": "Phương án B"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "C",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án D theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-3",
+        "questionNumber": 2,
+        "partTitle": "Part 1. Listen and number",
+        "text": "Câu 3",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Phương án A"
+          },
+          {
+            "id": "B",
+            "text": "Phương án D"
+          },
+          {
+            "id": "C",
+            "text": "Phương án C"
+          },
+          {
+            "id": "D",
+            "text": "Phương án B"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "A",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án A theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-1",
+        "questionNumber": 3,
+        "partTitle": "Part 1. Listen and number",
+        "text": "Câu 1",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Phương án B"
+          },
+          {
+            "id": "B",
+            "text": "Phương án A"
+          },
+          {
+            "id": "C",
+            "text": "Phương án C"
+          },
+          {
+            "id": "D",
+            "text": "Phương án D"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "A",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án B theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-2",
+        "questionNumber": 4,
+        "partTitle": "Part 1. Listen and number",
+        "text": "Câu 2",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Phương án A"
+          },
+          {
+            "id": "B",
+            "text": "Phương án C"
+          },
+          {
+            "id": "C",
+            "text": "Phương án D"
+          },
+          {
+            "id": "D",
+            "text": "Phương án B"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "B",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án C theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-5",
+        "questionNumber": 5,
+        "partTitle": "Part 2. Nghe và chọn",
+        "text": "Câu 5",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "drawing"
+          },
+          {
+            "id": "B",
+            "text": "doing project"
+          },
+          {
+            "id": "C",
+            "text": "singing"
+          },
+          {
+            "id": "D",
+            "text": "cooking"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "B",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án B theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-5",
+        "questionNumber": 6,
+        "partTitle": "Part 2. Nghe và chọn",
+        "text": "A. drawing\tB. doing project\t\tC. singing\t\tD. cooking",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Phương án A"
+          },
+          {
+            "id": "B",
+            "text": "Phương án B"
+          },
+          {
+            "id": "C",
+            "text": "Phương án C"
+          },
+          {
+            "id": "D",
+            "text": "Phương án D"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "B",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án B theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-6",
+        "questionNumber": 7,
+        "partTitle": "Part 2. Nghe và chọn",
+        "text": "A. dancing\tB. doing project\t\tC. drawing pictures\tD. doing maths",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Phương án B"
+          },
+          {
+            "id": "B",
+            "text": "Phương án D"
+          },
+          {
+            "id": "C",
+            "text": "Phương án A"
+          },
+          {
+            "id": "D",
+            "text": "Phương án C"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "D",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án C theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-6",
+        "questionNumber": 8,
+        "partTitle": "Part 2. Nghe và chọn",
+        "text": "Câu 6",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "doing project"
+          },
+          {
+            "id": "B",
+            "text": "dancing"
+          },
+          {
+            "id": "C",
+            "text": "drawing pictures"
+          },
+          {
+            "id": "D",
+            "text": "doing maths"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "C",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án C theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-8",
+        "questionNumber": 9,
+        "partTitle": "Part 3. Nghe và chọn từ có dấu trọng âm khác.",
+        "text": "A. goodbye \tB. swimming \tC. enjoy",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Phương án D"
+          },
+          {
+            "id": "B",
+            "text": "Phương án C"
+          },
+          {
+            "id": "C",
+            "text": "Phương án B"
+          },
+          {
+            "id": "D",
+            "text": "Phương án A"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "C",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án B theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-9",
+        "questionNumber": 10,
+        "partTitle": "Part 3. Nghe và chọn từ có dấu trọng âm khác.",
+        "text": "A. before \tB. guitar \tC. writing",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Phương án D"
+          },
+          {
+            "id": "B",
+            "text": "Phương án A"
+          },
+          {
+            "id": "C",
+            "text": "Phương án C"
+          },
+          {
+            "id": "D",
+            "text": "Phương án B"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "C",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án C theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-7",
+        "questionNumber": 11,
+        "partTitle": "Part 3. Nghe và chọn từ có dấu trọng âm khác.",
+        "text": "A. solving \tB. downstairs \tC. because",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Phương án A"
+          },
+          {
+            "id": "B",
+            "text": "Phương án D"
+          },
+          {
+            "id": "C",
+            "text": "Phương án B"
+          },
+          {
+            "id": "D",
+            "text": "Phương án C"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "A",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án A theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-11",
+        "questionNumber": 12,
+        "partTitle": "Part 4. Nghe và chọn",
+        "text": "She likes _______________ because she thinks it's interesting.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Phương án B"
+          },
+          {
+            "id": "B",
+            "text": "Phương án C"
+          },
+          {
+            "id": "C",
+            "text": "Phương án D"
+          },
+          {
+            "id": "D",
+            "text": "Phương án A"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "D",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án A theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-10",
+        "questionNumber": 13,
+        "partTitle": "Part 4. Nghe và chọn",
+        "text": "He likes _______.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Phương án C"
+          },
+          {
+            "id": "B",
+            "text": "Phương án A"
+          },
+          {
+            "id": "C",
+            "text": "Phương án D"
+          },
+          {
+            "id": "D",
+            "text": "Phương án B"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "D",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án B theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-15",
+        "questionNumber": 14,
+        "partTitle": "Part 5. Tìm từ có cách phát âm khác",
+        "text": "A. read\tB. meat\t\tC. team\t\tD. bread",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "<u>Ph</u>ương án D"
+          },
+          {
+            "id": "B",
+            "text": "<u>Ph</u>ương án B"
+          },
+          {
+            "id": "C",
+            "text": "<u>Ph</u>ương án C"
+          },
+          {
+            "id": "D",
+            "text": "<u>Ph</u>ương án A"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "A",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án D theo đề bài.",
+        "questionType": "pronunciation"
+      },
+      {
+        "questionId": "q-13",
+        "questionNumber": 15,
+        "partTitle": "Part 5. Tìm từ có cách phát âm khác",
+        "text": "Câu 13",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "m<u>a</u>y"
+          },
+          {
+            "id": "B",
+            "text": "pl<u>a</u>y"
+          },
+          {
+            "id": "C",
+            "text": "dr<u>a</u>w"
+          },
+          {
+            "id": "D",
+            "text": "c<u>a</u>ke"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "C",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án B theo đề bài.",
+        "questionType": "pronunciation"
+      },
+      {
+        "questionId": "q-15",
+        "questionNumber": 16,
+        "partTitle": "Part 5. Tìm từ có cách phát âm khác",
+        "text": "Câu 15",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "m<u>ea</u>t"
+          },
+          {
+            "id": "B",
+            "text": "r<u>ea</u>d"
+          },
+          {
+            "id": "C",
+            "text": "br<u>ea</u>d"
+          },
+          {
+            "id": "D",
+            "text": "t<u>ea</u>m"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "C",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án D theo đề bài.",
+        "questionType": "pronunciation"
+      },
+      {
+        "questionId": "q-14",
+        "questionNumber": 17,
+        "partTitle": "Part 5. Tìm từ có cách phát âm khác",
+        "text": "A. book\tB. zoo\t\tC. school\tD. noodles",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "<u>Ph</u>ương án A"
+          },
+          {
+            "id": "B",
+            "text": "<u>Ph</u>ương án D"
+          },
+          {
+            "id": "C",
+            "text": "<u>Ph</u>ương án B"
+          },
+          {
+            "id": "D",
+            "text": "<u>Ph</u>ương án C"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "A",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án A theo đề bài.",
+        "questionType": "pronunciation"
+      },
+      {
+        "questionId": "q-12",
+        "questionNumber": 18,
+        "partTitle": "Part 5. Tìm từ có cách phát âm khác",
+        "text": "A. fun\tB. run\t\tC. busy\t\tD. lunch",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "<u>Ph</u>ương án C"
+          },
+          {
+            "id": "B",
+            "text": "<u>Ph</u>ương án B"
+          },
+          {
+            "id": "C",
+            "text": "<u>Ph</u>ương án A"
+          },
+          {
+            "id": "D",
+            "text": "<u>Ph</u>ương án D"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "A",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án C theo đề bài.",
+        "questionType": "pronunciation"
+      },
+      {
+        "questionId": "q-16",
+        "questionNumber": 19,
+        "partTitle": "Part 5. Tìm từ có cách phát âm khác",
+        "text": "A. solve\tB. problem\tC. hot\t\tD. go",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "<u>Ph</u>ương án B"
+          },
+          {
+            "id": "B",
+            "text": "<u>Ph</u>ương án A"
+          },
+          {
+            "id": "C",
+            "text": "<u>Ph</u>ương án D"
+          },
+          {
+            "id": "D",
+            "text": "<u>Ph</u>ương án C"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "C",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án D theo đề bài.",
+        "questionType": "pronunciation"
+      },
+      {
+        "questionId": "q-14",
+        "questionNumber": 20,
+        "partTitle": "Part 5. Tìm từ có cách phát âm khác",
+        "text": "Câu 14",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "sch<u>oo</u>l"
+          },
+          {
+            "id": "B",
+            "text": "z<u>oo</u>"
+          },
+          {
+            "id": "C",
+            "text": "b<u>oo</u>k"
+          },
+          {
+            "id": "D",
+            "text": "n<u>oo</u>dles"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "C",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án A theo đề bài.",
+        "questionType": "pronunciation"
+      },
+      {
+        "questionId": "q-13",
+        "questionNumber": 21,
+        "partTitle": "Part 5. Tìm từ có cách phát âm khác",
+        "text": "A. play\tB. draw\t\tC. may\t\tD. cake",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "<u>Ph</u>ương án A"
+          },
+          {
+            "id": "B",
+            "text": "<u>Ph</u>ương án C"
+          },
+          {
+            "id": "C",
+            "text": "<u>Ph</u>ương án D"
+          },
+          {
+            "id": "D",
+            "text": "<u>Ph</u>ương án B"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "D",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án B theo đề bài.",
+        "questionType": "pronunciation"
+      },
+      {
+        "questionId": "q-16",
+        "questionNumber": 22,
+        "partTitle": "Part 5. Tìm từ có cách phát âm khác",
+        "text": "Câu 16",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "s<u>o</u>lve"
+          },
+          {
+            "id": "B",
+            "text": "pr<u>o</u>blem"
+          },
+          {
+            "id": "C",
+            "text": "h<u>o</u>t"
+          },
+          {
+            "id": "D",
+            "text": "g<u>o</u>"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "D",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án D theo đề bài.",
+        "questionType": "pronunciation"
+      },
+      {
+        "questionId": "q-12",
+        "questionNumber": 23,
+        "partTitle": "Part 5. Tìm từ có cách phát âm khác",
+        "text": "Câu 12",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "b<u>u</u>sy"
+          },
+          {
+            "id": "B",
+            "text": "r<u>u</u>n"
+          },
+          {
+            "id": "C",
+            "text": "l<u>u</u>nch"
+          },
+          {
+            "id": "D",
+            "text": "f<u>u</u>n"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "A",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án C theo đề bài.",
+        "questionType": "pronunciation"
+      },
+      {
+        "questionId": "q-18",
+        "questionNumber": 24,
+        "partTitle": "Part 6. Chọn từ khác loại",
+        "text": "A. draw\tB. solve\t\tC. doing\t\tD. play",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Phương án D"
+          },
+          {
+            "id": "B",
+            "text": "Phương án C"
+          },
+          {
+            "id": "C",
+            "text": "Phương án A"
+          },
+          {
+            "id": "D",
+            "text": "Phương án B"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "B",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án C theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-17",
+        "questionNumber": 25,
+        "partTitle": "Part 6. Chọn từ khác loại",
+        "text": "Câu 17",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "problem"
+          },
+          {
+            "id": "B",
+            "text": "Project"
+          },
+          {
+            "id": "C",
+            "text": "do"
+          },
+          {
+            "id": "D",
+            "text": "game"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "C",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án D theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-19",
+        "questionNumber": 26,
+        "partTitle": "Part 6. Chọn từ khác loại",
+        "text": "Câu 19",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "good"
+          },
+          {
+            "id": "B",
+            "text": "reading"
+          },
+          {
+            "id": "C",
+            "text": "interesting"
+          },
+          {
+            "id": "D",
+            "text": "fun"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "B",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án A theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-21",
+        "questionNumber": 27,
+        "partTitle": "Part 6. Chọn từ khác loại",
+        "text": "A. singer\tB. famous\tC. footballer\tD. Scientist",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Phương án C"
+          },
+          {
+            "id": "B",
+            "text": "Phương án B"
+          },
+          {
+            "id": "C",
+            "text": "Phương án D"
+          },
+          {
+            "id": "D",
+            "text": "Phương án A"
+          }
+        ],
+        "studentChoice": "B",
+        "correctAnswer": "B",
+        "isCorrect": true,
+        "explanation": "Chọn đáp án B theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-20",
+        "questionNumber": 28,
+        "partTitle": "Part 6. Chọn từ khác loại",
+        "text": "A. dancing\tB. swimming\tC. different\tD. painting",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Phương án D"
+          },
+          {
+            "id": "B",
+            "text": "Phương án C"
+          },
+          {
+            "id": "C",
+            "text": "Phương án B"
+          },
+          {
+            "id": "D",
+            "text": "Phương án A"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "B",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án C theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-19",
+        "questionNumber": 29,
+        "partTitle": "Part 6. Chọn từ khác loại",
+        "text": "A. reading \tB. good\t\tC. fun\t\tD. interesting",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Phương án D"
+          },
+          {
+            "id": "B",
+            "text": "Phương án A"
+          },
+          {
+            "id": "C",
+            "text": "Phương án C"
+          },
+          {
+            "id": "D",
+            "text": "Phương án B"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "B",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án A theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-17",
+        "questionNumber": 30,
+        "partTitle": "Part 6. Chọn từ khác loại",
+        "text": "A. problem\tB. Project\tC. game\t\tD. do",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Phương án C"
+          },
+          {
+            "id": "B",
+            "text": "Phương án A"
+          },
+          {
+            "id": "C",
+            "text": "Phương án D"
+          },
+          {
+            "id": "D",
+            "text": "Phương án B"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "C",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án D theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-23",
+        "questionNumber": 31,
+        "partTitle": "Part 7.",
+        "text": "She likes ________ projects.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "solving"
+          },
+          {
+            "id": "B",
+            "text": "doing"
+          },
+          {
+            "id": "C",
+            "text": "listen"
+          },
+          {
+            "id": "D",
+            "text": "play"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "B",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án A theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-35",
+        "questionNumber": 32,
+        "partTitle": "Part 7.",
+        "text": "Tom is ____. He loves to play sports every day.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "friendly"
+          },
+          {
+            "id": "B",
+            "text": "active"
+          },
+          {
+            "id": "C",
+            "text": "helpful"
+          },
+          {
+            "id": "D",
+            "text": "clever"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "B",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án C theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-24",
+        "questionNumber": 33,
+        "partTitle": "Part 7.",
+        "text": "He likes reading books because he thinks it's ________.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "sunny"
+          },
+          {
+            "id": "B",
+            "text": "interesting"
+          },
+          {
+            "id": "C",
+            "text": "kind"
+          },
+          {
+            "id": "D",
+            "text": "beautiful"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "B",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án C theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-26",
+        "questionNumber": 34,
+        "partTitle": "Part 7.",
+        "text": "Could ..........................the way to the music room?",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "I tell you"
+          },
+          {
+            "id": "B",
+            "text": "tell me"
+          },
+          {
+            "id": "C",
+            "text": "you tell me"
+          },
+          {
+            "id": "D",
+            "text": "you tell I"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "C",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án A theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-36",
+        "questionNumber": 35,
+        "partTitle": "Part 7.",
+        "text": "We often ____ new friends when we travel.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "make friends"
+          },
+          {
+            "id": "B",
+            "text": "personality"
+          },
+          {
+            "id": "C",
+            "text": "appearance"
+          },
+          {
+            "id": "D",
+            "text": "invite"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "A",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án B theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-28",
+        "questionNumber": 36,
+        "partTitle": "Part 7.",
+        "text": "He is a gardener. He’d like to_____________",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "help sick people\tB. write stories."
+          },
+          {
+            "id": "B",
+            "text": "put out fires.&nbsp;\t\tD. grow plants"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "D",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án D theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-22",
+        "questionNumber": 37,
+        "partTitle": "Part 7.",
+        "text": "His favourite school _______ is playing games.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "drink"
+          },
+          {
+            "id": "B",
+            "text": "food"
+          },
+          {
+            "id": "C",
+            "text": "subject"
+          },
+          {
+            "id": "D",
+            "text": "activity"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "D",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án B theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-30",
+        "questionNumber": 38,
+        "partTitle": "Part 7.",
+        "text": "Where is the art room? - It's .................. the second floor.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "opposite &nbsp;&nbsp;"
+          },
+          {
+            "id": "B",
+            "text": "between"
+          },
+          {
+            "id": "C",
+            "text": "in &nbsp;&nbsp;"
+          },
+          {
+            "id": "D",
+            "text": "on &nbsp;&nbsp;"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "D",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án B theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-25",
+        "questionNumber": 39,
+        "partTitle": "Part 7.",
+        "text": "________ does she like solving maths problems?  Because It’s challenging.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Who"
+          },
+          {
+            "id": "B",
+            "text": "What"
+          },
+          {
+            "id": "C",
+            "text": "when"
+          },
+          {
+            "id": "D",
+            "text": "Why"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "D",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án D theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-34",
+        "questionNumber": 40,
+        "partTitle": "Part 7.",
+        "text": "Lisa is very ____. She always helps me with my homework.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "active"
+          },
+          {
+            "id": "B",
+            "text": "helpful"
+          },
+          {
+            "id": "C",
+            "text": "friend"
+          },
+          {
+            "id": "D",
+            "text": "nice"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "B",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án C theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-38",
+        "questionNumber": 41,
+        "partTitle": "Part 7.",
+        "text": "My foreign friends are very ____. They always smile and talk to me.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "clever"
+          },
+          {
+            "id": "B",
+            "text": "helpful"
+          },
+          {
+            "id": "C",
+            "text": "active"
+          },
+          {
+            "id": "D",
+            "text": "friendly"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "D",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án C theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-39",
+        "questionNumber": 42,
+        "partTitle": "Part 7.",
+        "text": "John is ____. He comes from the United States.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "American"
+          },
+          {
+            "id": "B",
+            "text": "British"
+          },
+          {
+            "id": "C",
+            "text": "Malaysian"
+          },
+          {
+            "id": "D",
+            "text": "Australian"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "A",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án A theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-40",
+        "questionNumber": 43,
+        "partTitle": "Part 7.",
+        "text": "We ____ our friends to our house for a party.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "personality"
+          },
+          {
+            "id": "B",
+            "text": "appearance"
+          },
+          {
+            "id": "C",
+            "text": "make friends"
+          },
+          {
+            "id": "D",
+            "text": "invite"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "D",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án C theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-29",
+        "questionNumber": 44,
+        "partTitle": "Part 7.",
+        "text": "........................ the English room? - It's on the ground floor.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "What &nbsp;\t&nbsp;"
+          },
+          {
+            "id": "B",
+            "text": "Where"
+          },
+          {
+            "id": "C",
+            "text": "Where's &nbsp;\t&nbsp;"
+          },
+          {
+            "id": "D",
+            "text": "What's &nbsp;&nbsp;"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "C",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án B theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-27",
+        "questionNumber": 45,
+        "partTitle": "Part 7.",
+        "text": "_______ would you like to be? I’d like to be a driver.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "What"
+          },
+          {
+            "id": "B",
+            "text": "When"
+          },
+          {
+            "id": "C",
+            "text": "Who"
+          },
+          {
+            "id": "D",
+            "text": "Which"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "A",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án D theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-32",
+        "questionNumber": 46,
+        "partTitle": "Part 7.",
+        "text": "He likes playing games because he thinks it's ______",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "fun"
+          },
+          {
+            "id": "B",
+            "text": "difficult"
+          },
+          {
+            "id": "C",
+            "text": "boring"
+          },
+          {
+            "id": "D",
+            "text": "delicious"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "A",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án B theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-31",
+        "questionNumber": 47,
+        "partTitle": "Part 7.",
+        "text": "_______ her favourite school activity?",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "who’s"
+          },
+          {
+            "id": "B",
+            "text": "How's"
+          },
+          {
+            "id": "C",
+            "text": "Where's&nbsp;"
+          },
+          {
+            "id": "D",
+            "text": "What's&nbsp;"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "D",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án B theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-33",
+        "questionNumber": 48,
+        "partTitle": "Part 7.",
+        "text": "My best friend is ____. He comes from India.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "American"
+          },
+          {
+            "id": "B",
+            "text": "Chinese"
+          },
+          {
+            "id": "C",
+            "text": "Indian"
+          },
+          {
+            "id": "D",
+            "text": "Malaysian"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "C",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án C theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-37",
+        "questionNumber": 49,
+        "partTitle": "Part 7.",
+        "text": "Jane is very ____. She has good ideas and solves problems quickly.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "friendly"
+          },
+          {
+            "id": "B",
+            "text": "helpful"
+          },
+          {
+            "id": "C",
+            "text": "active"
+          },
+          {
+            "id": "D",
+            "text": "clever"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "D",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án C theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-44",
+        "questionNumber": 50,
+        "partTitle": "Part 8. Đọc và chọn đáp án đúng",
+        "text": "Why does Linda play games? Because________",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "It’s useless."
+          },
+          {
+            "id": "B",
+            "text": "It’s fun."
+          },
+          {
+            "id": "C",
+            "text": "It’s difficult."
+          },
+          {
+            "id": "D",
+            "text": "It’s boring."
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "B",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án C theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-41",
+        "questionNumber": 51,
+        "partTitle": "Part 8. Đọc và chọn đáp án đúng",
+        "text": "Who are Nam's close friends?",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Anna and Mia.\t\t D. Peter and John."
+          },
+          {
+            "id": "B",
+            "text": "Kim and Linda. \tB. Tom and Jerry."
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "B",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án A theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-42",
+        "questionNumber": 52,
+        "partTitle": "Part 8. Đọc và chọn đáp án đúng",
+        "text": "Do they have the same favourite activities?",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "yes, they do"
+          },
+          {
+            "id": "B",
+            "text": "no, they aren’t"
+          },
+          {
+            "id": "C",
+            "text": "yes, they are"
+          },
+          {
+            "id": "D",
+            "text": "no, they don’t"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "D",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án B theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-43",
+        "questionNumber": 53,
+        "partTitle": "Part 8. Đọc và chọn đáp án đúng",
+        "text": "What does Kim like?",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Solving maths. \tD. Reading books."
+          },
+          {
+            "id": "B",
+            "text": "Playing games.\t B. Doing projects."
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "B",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án B theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-45",
+        "questionNumber": 54,
+        "partTitle": "Part 8. Đọc và chọn đáp án đúng",
+        "text": "Why does Nam solve maths?",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "It’s boring."
+          },
+          {
+            "id": "B",
+            "text": "It’s interesting."
+          },
+          {
+            "id": "C",
+            "text": "It’s difficult."
+          },
+          {
+            "id": "D",
+            "text": "It’s fun."
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "B",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án B theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-49",
+        "questionNumber": 55,
+        "partTitle": "Part 9. Đọc và chọn đáp án đúng",
+        "text": "Why does she like doing projects?",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Because he thinks it’s interesting."
+          },
+          {
+            "id": "B",
+            "text": "Because she thinks it’s good for group work."
+          },
+          {
+            "id": "C",
+            "text": "go upstairs and turn left. E. He likes reading books."
+          },
+          {
+            "id": "D",
+            "text": "She likes doing projects."
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "B",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án A theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-47",
+        "questionNumber": 56,
+        "partTitle": "Part 9. Đọc và chọn đáp án đúng",
+        "text": "Why does he like reading books?",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Because he thinks it’s interesting."
+          },
+          {
+            "id": "B",
+            "text": "go upstairs and turn left. E. He likes reading books."
+          },
+          {
+            "id": "C",
+            "text": "She likes doing projects."
+          },
+          {
+            "id": "D",
+            "text": "Because she thinks it’s good for group work."
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "A",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án C theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-46",
+        "questionNumber": 57,
+        "partTitle": "Part 9. Đọc và chọn đáp án đúng",
+        "text": "What school activity does he like?",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Because she thinks it’s good for group work."
+          },
+          {
+            "id": "B",
+            "text": "Because he thinks it’s interesting."
+          },
+          {
+            "id": "C",
+            "text": "go upstairs and turn left. E. He likes reading books."
+          },
+          {
+            "id": "D",
+            "text": "She likes doing projects."
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "E",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án E theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-50",
+        "questionNumber": 58,
+        "partTitle": "Part 9. Đọc và chọn đáp án đúng",
+        "text": "How can I get to the library?",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Because he thinks it’s interesting."
+          },
+          {
+            "id": "B",
+            "text": "Because she thinks it’s good for group work."
+          },
+          {
+            "id": "C",
+            "text": "go upstairs and turn left. E. He likes reading books."
+          },
+          {
+            "id": "D",
+            "text": "She likes doing projects."
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "C",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án D theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-48",
+        "questionNumber": 59,
+        "partTitle": "Part 9. Đọc và chọn đáp án đúng",
+        "text": "What school activity does she like?",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "go upstairs and turn left. E. He likes reading books."
+          },
+          {
+            "id": "B",
+            "text": "She likes doing projects."
+          },
+          {
+            "id": "C",
+            "text": "Because he thinks it’s interesting."
+          },
+          {
+            "id": "D",
+            "text": "Because she thinks it’s good for group work."
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "B",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án B theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-55",
+        "questionNumber": 60,
+        "partTitle": "Part 10. Read and choose True or false   True (đúng), False (sai)",
+        "text": "There is a drinks cabinet in Mai’s living room.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Phương án D"
+          },
+          {
+            "id": "B",
+            "text": "Phương án A"
+          },
+          {
+            "id": "C",
+            "text": "Phương án B"
+          },
+          {
+            "id": "D",
+            "text": "Phương án C"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "B",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án A theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-51",
+        "questionNumber": 61,
+        "partTitle": "Part 10. Read and choose True or false   True (đúng), False (sai)",
+        "text": "Mai lives in a tree house.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Phương án B"
+          },
+          {
+            "id": "B",
+            "text": "Phương án A"
+          },
+          {
+            "id": "C",
+            "text": "Phương án C"
+          },
+          {
+            "id": "D",
+            "text": "Phương án D"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "A",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án B theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-54",
+        "questionNumber": 62,
+        "partTitle": "Part 10. Read and choose True or false   True (đúng), False (sai)",
+        "text": "Mai has a ceiling fan in her room.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Phương án D"
+          },
+          {
+            "id": "B",
+            "text": "Phương án B"
+          },
+          {
+            "id": "C",
+            "text": "Phương án C"
+          },
+          {
+            "id": "D",
+            "text": "Phương án A"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "D",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án A theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-53",
+        "questionNumber": 63,
+        "partTitle": "Part 10. Read and choose True or false   True (đúng), False (sai)",
+        "text": "Lan lives in a flat in the same district as Mai.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Phương án B"
+          },
+          {
+            "id": "B",
+            "text": "Phương án C"
+          },
+          {
+            "id": "C",
+            "text": "Phương án D"
+          },
+          {
+            "id": "D",
+            "text": "Phương án A"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "D",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án A theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-52",
+        "questionNumber": 64,
+        "partTitle": "Part 10. Read and choose True or false   True (đúng), False (sai)",
+        "text": "Mai’s villa is far from her school.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Phương án C"
+          },
+          {
+            "id": "B",
+            "text": "Phương án A"
+          },
+          {
+            "id": "C",
+            "text": "Phương án B"
+          },
+          {
+            "id": "D",
+            "text": "Phương án D"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "C",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án B theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-60",
+        "questionNumber": 65,
+        "partTitle": "Part 11.",
+        "text": "does/ Why/ like/ She / books? / reading",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Phương án C"
+          },
+          {
+            "id": "B",
+            "text": "Phương án B"
+          },
+          {
+            "id": "C",
+            "text": "Phương án A"
+          },
+          {
+            "id": "D",
+            "text": "Phương án D"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "A",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án C theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-56",
+        "questionNumber": 66,
+        "partTitle": "Part 11.",
+        "text": "What / does / your / activity / brother / like?",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "What does your brother like activity?"
+          },
+          {
+            "id": "B",
+            "text": "What activity does your brother like?<br>"
+          },
+          {
+            "id": "C",
+            "text": "What does like your brother activity?"
+          },
+          {
+            "id": "D",
+            "text": "What brother does your activity like?"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "B",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án B theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-58",
+        "questionNumber": 67,
+        "partTitle": "Part 11.",
+        "text": "like / does / Why / he / it?",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Phương án C"
+          },
+          {
+            "id": "B",
+            "text": "Phương án D"
+          },
+          {
+            "id": "C",
+            "text": "Phương án B"
+          },
+          {
+            "id": "D",
+            "text": "Phương án A"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "D",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án A theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-59",
+        "questionNumber": 68,
+        "partTitle": "Part 11.",
+        "text": "thinks / it’s / interesting / Because / he.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Phương án D"
+          },
+          {
+            "id": "B",
+            "text": "Phương án C"
+          },
+          {
+            "id": "C",
+            "text": "Phương án A"
+          },
+          {
+            "id": "D",
+            "text": "Phương án B"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "D",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án B theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-57",
+        "questionNumber": 69,
+        "partTitle": "Part 11.",
+        "text": "solving / He / maths / problems / likes.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "He solving likes problems maths."
+          },
+          {
+            "id": "B",
+            "text": "Likes he solving problems maths.<br>"
+          },
+          {
+            "id": "C",
+            "text": "He likes maths problems solving."
+          },
+          {
+            "id": "D",
+            "text": "He likes solving maths problems."
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "D",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án D theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-72",
+        "questionNumber": 70,
+        "partTitle": "Part 12. Chọn đáp án đúng",
+        "text": "“Tại sao bạn thích mỹ thuật?” được nói bằng tiếng Anh thế nào?",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "My favourite subject is art.\t<mark>D. Why do you like art?</mark>"
+          },
+          {
+            "id": "B",
+            "text": "I like art?\t\t\tB. What is that?"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "A",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án C theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-65",
+        "questionNumber": 71,
+        "partTitle": "Part 12. Chọn đáp án đúng",
+        "text": "Câu “ Sở thích của bạn là gì?” được nói thế nào bằng tiếng Anh.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "What’s your name?\t\t<mark>B. What’s your hobby?</mark>"
+          },
+          {
+            "id": "B",
+            "text": "Who’s that?\t.\t\tD. What is this?."
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "A",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án A theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-71",
+        "questionNumber": 72,
+        "partTitle": "Part 12. Chọn đáp án đúng",
+        "text": "“Môn học yêu thích của bạn là gì?” được nói bằng tiếng Anh",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Phương án A"
+          },
+          {
+            "id": "B",
+            "text": "Phương án D"
+          },
+          {
+            "id": "C",
+            "text": "Phương án B"
+          },
+          {
+            "id": "D",
+            "text": "Phương án C"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "A",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án A theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-62",
+        "questionNumber": 73,
+        "partTitle": "Part 12. Chọn đáp án đúng",
+        "text": "Câu “ Phòng ngủ ở đâu?” được nói thế nào bằng tiếng Anh.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Phương án B"
+          },
+          {
+            "id": "B",
+            "text": "Phương án D"
+          },
+          {
+            "id": "C",
+            "text": "Phương án A"
+          },
+          {
+            "id": "D",
+            "text": "Phương án C"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "C",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án A theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-64",
+        "questionNumber": 74,
+        "partTitle": "Part 12. Chọn đáp án đúng",
+        "text": "Câu “ Xin phép cho em được ra ngoài” được nói thế nào bằng tiếng Anh. <mark>A. May I go out?</mark>\t\tB. May I sit down?",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Phương án B"
+          },
+          {
+            "id": "B",
+            "text": "Phương án C"
+          },
+          {
+            "id": "C",
+            "text": "Phương án A"
+          },
+          {
+            "id": "D",
+            "text": "Phương án D"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "C",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án A theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-69",
+        "questionNumber": 75,
+        "partTitle": "Part 12. Chọn đáp án đúng",
+        "text": "Câu “ Những cái cửa sổ rất đẹp” được nói thế nào bằng tiếng Anh.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "The windows are nice\tD. I have a school bag."
+          },
+          {
+            "id": "B",
+            "text": "The windows is nice.\t\tB. The window is nice."
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "B",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án A theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-75",
+        "questionNumber": 76,
+        "partTitle": "Part 12. Chọn đáp án đúng",
+        "text": "“ Bởi vì tôi muốn trở thành 1 giáo viên tiếng anh?” được nói bằng tiếng Anh thế nào?",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Phương án A"
+          },
+          {
+            "id": "B",
+            "text": "Phương án D"
+          },
+          {
+            "id": "C",
+            "text": "Phương án B"
+          },
+          {
+            "id": "D",
+            "text": "Phương án C"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "A",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án A theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-61",
+        "questionNumber": 77,
+        "partTitle": "Part 12. Chọn đáp án đúng",
+        "text": "Câu “ Cái này màu gì?” được nói thế nào bằng tiếng Anh. <mark>A. What colour is it?</mark>\t\tB. What colour are they?.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Phương án D"
+          },
+          {
+            "id": "B",
+            "text": "Phương án A"
+          },
+          {
+            "id": "C",
+            "text": "Phương án C"
+          },
+          {
+            "id": "D",
+            "text": "Phương án B"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "B",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án A theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-70",
+        "questionNumber": 78,
+        "partTitle": "Part 12. Chọn đáp án đúng",
+        "text": "Câu “ Cánh cửa rất to?” được nói thế nào bằng tiếng Anh.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "The door is small\t\tB. The door is big,"
+          },
+          {
+            "id": "B",
+            "text": "The window is big.\t\tD. What is this?"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "A",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án A theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-74",
+        "questionNumber": 79,
+        "partTitle": "Part 12. Chọn đáp án đúng",
+        "text": "“Môn học yêu thích của tôi là Tiếng Anh” được nói bằng tiếng Anh thế nào?",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "What is your favourite subject?\tD. What colour is your book?"
+          },
+          {
+            "id": "B",
+            "text": "My favourite subject is music?\t<mark>B. My favourite subject is English?</mark>"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "B",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án A theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-63",
+        "questionNumber": 80,
+        "partTitle": "Part 12. Chọn đáp án đúng",
+        "text": "Câu “ Mẹ bạn bao nhiêu tuổi.” được nói thế nào bằng tiếng Anh.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "how old is your sister?\t<mark>D. How old is your mother</mark>?"
+          },
+          {
+            "id": "B",
+            "text": "How old is your father?\tB. How old are you?"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "A",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án C theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-73",
+        "questionNumber": 81,
+        "partTitle": "Part 12. Chọn đáp án đúng",
+        "text": "“Hôm nay bạn học môn gì” được nói bằng tiếng Anh thế nào?",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Is that your pen?\t\t\t<mark>B. What subject do you have today?</mark>"
+          },
+          {
+            "id": "B",
+            "text": "What is your favourite subject?\t\tD. Are those your pens?"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "A",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án A theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-66",
+        "questionNumber": 82,
+        "partTitle": "Part 12. Chọn đáp án đúng",
+        "text": "Câu “ Đây là phòng ngủ của tôi?” được nói thế nào bằng tiếng Anh.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Those are my bedroom.\tD. What is your hobby?"
+          },
+          {
+            "id": "B",
+            "text": "This is your bedroom.\t\tB. This is my bedroom."
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "B",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án A theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-68",
+        "questionNumber": 83,
+        "partTitle": "Part 12. Chọn đáp án đúng",
+        "text": "Câu “ Có một cái bàn học sinh ở trong phòng.” được nói thế nào bằng tiếng Anh.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "How old is your father.\tB. How old are you."
+          },
+          {
+            "id": "B",
+            "text": "Where is your bedroom?\tD. There’s a desk in the room."
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "A",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án A theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-67",
+        "questionNumber": 84,
+        "partTitle": "Part 12. Chọn đáp án đúng",
+        "text": "Câu “ Phòng ngủ ở đâu?” được nói thế nào bằng tiếng Anh.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Where is the bedroom?\tD. What is your hobby?."
+          },
+          {
+            "id": "B",
+            "text": "Where is the kitchen?\tB. Where is your house?"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "B",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án A theo đề bài.",
+        "questionType": "multiple_choice"
+      }
+    ]
+  },
+  {
+    "id": "SUB-1792624753175",
+    "examId": "TEST-8802",
+    "studentName": "lan anh4",
+    "studentClass": "9a",
+    "studentId": "",
+    "score": 0.24,
+    "totalQuestions": 84,
+    "correctCount": 2,
+    "timeSpentSeconds": 47,
+    "violations": 0,
+    "attempt": 1,
+    "timestamp": "2026-10-21T23:19:13.906Z",
+    "answers": {
+      "q-1": "A",
+      "q-14": "C",
+      "q-16": "B"
+    },
+    "questionSnapshots": [
+      {
+        "questionId": "q-1",
+        "questionNumber": 1,
+        "partTitle": "Part 1. Listen and number",
+        "text": "Câu 1",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Phương án C"
+          },
+          {
+            "id": "B",
+            "text": "Phương án B"
+          },
+          {
+            "id": "C",
+            "text": "Phương án D"
+          },
+          {
+            "id": "D",
+            "text": "Phương án A"
+          }
+        ],
+        "studentChoice": "A",
+        "correctAnswer": "B",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án B theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-4",
+        "questionNumber": 2,
+        "partTitle": "Part 1. Listen and number",
+        "text": "Câu 4",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Phương án A"
+          },
+          {
+            "id": "B",
+            "text": "Phương án D"
+          },
+          {
+            "id": "C",
+            "text": "Phương án B"
+          },
+          {
+            "id": "D",
+            "text": "Phương án C"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "B",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án D theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-2",
+        "questionNumber": 3,
+        "partTitle": "Part 1. Listen and number",
+        "text": "Câu 2",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Phương án A"
+          },
+          {
+            "id": "B",
+            "text": "Phương án B"
+          },
+          {
+            "id": "C",
+            "text": "Phương án D"
+          },
+          {
+            "id": "D",
+            "text": "Phương án C"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "D",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án C theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-3",
+        "questionNumber": 4,
+        "partTitle": "Part 1. Listen and number",
+        "text": "Câu 3",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Phương án C"
+          },
+          {
+            "id": "B",
+            "text": "Phương án D"
+          },
+          {
+            "id": "C",
+            "text": "Phương án A"
+          },
+          {
+            "id": "D",
+            "text": "Phương án B"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "C",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án A theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-6",
+        "questionNumber": 5,
+        "partTitle": "Part 2. Nghe và chọn",
+        "text": "A. dancing\tB. doing project\t\tC. drawing pictures\tD. doing maths",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Phương án B"
+          },
+          {
+            "id": "B",
+            "text": "Phương án A"
+          },
+          {
+            "id": "C",
+            "text": "Phương án D"
+          },
+          {
+            "id": "D",
+            "text": "Phương án C"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "D",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án C theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-5",
+        "questionNumber": 6,
+        "partTitle": "Part 2. Nghe và chọn",
+        "text": "A. drawing\tB. doing project\t\tC. singing\t\tD. cooking",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Phương án A"
+          },
+          {
+            "id": "B",
+            "text": "Phương án D"
+          },
+          {
+            "id": "C",
+            "text": "Phương án C"
+          },
+          {
+            "id": "D",
+            "text": "Phương án B"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "D",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án B theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-5",
+        "questionNumber": 7,
+        "partTitle": "Part 2. Nghe và chọn",
+        "text": "Câu 5",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "doing project"
+          },
+          {
+            "id": "B",
+            "text": "drawing"
+          },
+          {
+            "id": "C",
+            "text": "singing"
+          },
+          {
+            "id": "D",
+            "text": "cooking"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "A",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án B theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-6",
+        "questionNumber": 8,
+        "partTitle": "Part 2. Nghe và chọn",
+        "text": "Câu 6",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "dancing"
+          },
+          {
+            "id": "B",
+            "text": "doing maths"
+          },
+          {
+            "id": "C",
+            "text": "drawing pictures"
+          },
+          {
+            "id": "D",
+            "text": "doing project"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "C",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án C theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-9",
+        "questionNumber": 9,
+        "partTitle": "Part 3. Nghe và chọn từ có dấu trọng âm khác.",
+        "text": "A. before \tB. guitar \tC. writing",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Phương án C"
+          },
+          {
+            "id": "B",
+            "text": "Phương án D"
+          },
+          {
+            "id": "C",
+            "text": "Phương án B"
+          },
+          {
+            "id": "D",
+            "text": "Phương án A"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "A",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án C theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-8",
+        "questionNumber": 10,
+        "partTitle": "Part 3. Nghe và chọn từ có dấu trọng âm khác.",
+        "text": "A. goodbye \tB. swimming \tC. enjoy",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Phương án D"
+          },
+          {
+            "id": "B",
+            "text": "Phương án C"
+          },
+          {
+            "id": "C",
+            "text": "Phương án A"
+          },
+          {
+            "id": "D",
+            "text": "Phương án B"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "D",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án B theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-7",
+        "questionNumber": 11,
+        "partTitle": "Part 3. Nghe và chọn từ có dấu trọng âm khác.",
+        "text": "A. solving \tB. downstairs \tC. because",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Phương án B"
+          },
+          {
+            "id": "B",
+            "text": "Phương án C"
+          },
+          {
+            "id": "C",
+            "text": "Phương án D"
+          },
+          {
+            "id": "D",
+            "text": "Phương án A"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "D",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án A theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-11",
+        "questionNumber": 12,
+        "partTitle": "Part 4. Nghe và chọn",
+        "text": "She likes _______________ because she thinks it's interesting.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Phương án C"
+          },
+          {
+            "id": "B",
+            "text": "Phương án D"
+          },
+          {
+            "id": "C",
+            "text": "Phương án A"
+          },
+          {
+            "id": "D",
+            "text": "Phương án B"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "C",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án A theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-10",
+        "questionNumber": 13,
+        "partTitle": "Part 4. Nghe và chọn",
+        "text": "He likes _______.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Phương án B"
+          },
+          {
+            "id": "B",
+            "text": "Phương án D"
+          },
+          {
+            "id": "C",
+            "text": "Phương án A"
+          },
+          {
+            "id": "D",
+            "text": "Phương án C"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "A",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án B theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-16",
+        "questionNumber": 14,
+        "partTitle": "Part 5. Tìm từ có cách phát âm khác",
+        "text": "A. solve\tB. problem\tC. hot\t\tD. go",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "<u>Ph</u>ương án D"
+          },
+          {
+            "id": "B",
+            "text": "<u>Ph</u>ương án C"
+          },
+          {
+            "id": "C",
+            "text": "<u>Ph</u>ương án A"
+          },
+          {
+            "id": "D",
+            "text": "<u>Ph</u>ương án B"
+          }
+        ],
+        "studentChoice": "B",
+        "correctAnswer": "A",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án D theo đề bài.",
+        "questionType": "pronunciation"
+      },
+      {
+        "questionId": "q-14",
+        "questionNumber": 15,
+        "partTitle": "Part 5. Tìm từ có cách phát âm khác",
+        "text": "Câu 14",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "sch<u>oo</u>l"
+          },
+          {
+            "id": "B",
+            "text": "n<u>oo</u>dles"
+          },
+          {
+            "id": "C",
+            "text": "b<u>oo</u>k"
+          },
+          {
+            "id": "D",
+            "text": "z<u>oo</u>"
+          }
+        ],
+        "studentChoice": "C",
+        "correctAnswer": "C",
+        "isCorrect": true,
+        "explanation": "Chọn đáp án A theo đề bài.",
+        "questionType": "pronunciation"
+      },
+      {
+        "questionId": "q-16",
+        "questionNumber": 16,
+        "partTitle": "Part 5. Tìm từ có cách phát âm khác",
+        "text": "Câu 16",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "g<u>o</u>"
+          },
+          {
+            "id": "B",
+            "text": "h<u>o</u>t"
+          },
+          {
+            "id": "C",
+            "text": "pr<u>o</u>blem"
+          },
+          {
+            "id": "D",
+            "text": "s<u>o</u>lve"
+          }
+        ],
+        "studentChoice": "B",
+        "correctAnswer": "A",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án D theo đề bài.",
+        "questionType": "pronunciation"
+      },
+      {
+        "questionId": "q-14",
+        "questionNumber": 17,
+        "partTitle": "Part 5. Tìm từ có cách phát âm khác",
+        "text": "A. book\tB. zoo\t\tC. school\tD. noodles",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "<u>Ph</u>ương án B"
+          },
+          {
+            "id": "B",
+            "text": "<u>Ph</u>ương án D"
+          },
+          {
+            "id": "C",
+            "text": "<u>Ph</u>ương án A"
+          },
+          {
+            "id": "D",
+            "text": "<u>Ph</u>ương án C"
+          }
+        ],
+        "studentChoice": "C",
+        "correctAnswer": "C",
+        "isCorrect": true,
+        "explanation": "Chọn đáp án A theo đề bài.",
+        "questionType": "pronunciation"
+      },
+      {
+        "questionId": "q-13",
+        "questionNumber": 18,
+        "partTitle": "Part 5. Tìm từ có cách phát âm khác",
+        "text": "A. play\tB. draw\t\tC. may\t\tD. cake",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "<u>Ph</u>ương án A"
+          },
+          {
+            "id": "B",
+            "text": "<u>Ph</u>ương án B"
+          },
+          {
+            "id": "C",
+            "text": "<u>Ph</u>ương án C"
+          },
+          {
+            "id": "D",
+            "text": "<u>Ph</u>ương án D"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "B",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án B theo đề bài.",
+        "questionType": "pronunciation"
+      },
+      {
+        "questionId": "q-12",
+        "questionNumber": 19,
+        "partTitle": "Part 5. Tìm từ có cách phát âm khác",
+        "text": "A. fun\tB. run\t\tC. busy\t\tD. lunch",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "<u>Ph</u>ương án C"
+          },
+          {
+            "id": "B",
+            "text": "<u>Ph</u>ương án D"
+          },
+          {
+            "id": "C",
+            "text": "<u>Ph</u>ương án B"
+          },
+          {
+            "id": "D",
+            "text": "<u>Ph</u>ương án A"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "A",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án C theo đề bài.",
+        "questionType": "pronunciation"
+      },
+      {
+        "questionId": "q-12",
+        "questionNumber": 20,
+        "partTitle": "Part 5. Tìm từ có cách phát âm khác",
+        "text": "Câu 12",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "l<u>u</u>nch"
+          },
+          {
+            "id": "B",
+            "text": "b<u>u</u>sy"
+          },
+          {
+            "id": "C",
+            "text": "f<u>u</u>n"
+          },
+          {
+            "id": "D",
+            "text": "r<u>u</u>n"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "B",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án C theo đề bài.",
+        "questionType": "pronunciation"
+      },
+      {
+        "questionId": "q-13",
+        "questionNumber": 21,
+        "partTitle": "Part 5. Tìm từ có cách phát âm khác",
+        "text": "Câu 13",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "m<u>a</u>y"
+          },
+          {
+            "id": "B",
+            "text": "pl<u>a</u>y"
+          },
+          {
+            "id": "C",
+            "text": "dr<u>a</u>w"
+          },
+          {
+            "id": "D",
+            "text": "c<u>a</u>ke"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "C",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án B theo đề bài.",
+        "questionType": "pronunciation"
+      },
+      {
+        "questionId": "q-15",
+        "questionNumber": 22,
+        "partTitle": "Part 5. Tìm từ có cách phát âm khác",
+        "text": "A. read\tB. meat\t\tC. team\t\tD. bread",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "<u>Ph</u>ương án C"
+          },
+          {
+            "id": "B",
+            "text": "<u>Ph</u>ương án A"
+          },
+          {
+            "id": "C",
+            "text": "<u>Ph</u>ương án D"
+          },
+          {
+            "id": "D",
+            "text": "<u>Ph</u>ương án B"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "C",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án D theo đề bài.",
+        "questionType": "pronunciation"
+      },
+      {
+        "questionId": "q-15",
+        "questionNumber": 23,
+        "partTitle": "Part 5. Tìm từ có cách phát âm khác",
+        "text": "Câu 15",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "r<u>ea</u>d"
+          },
+          {
+            "id": "B",
+            "text": "br<u>ea</u>d"
+          },
+          {
+            "id": "C",
+            "text": "m<u>ea</u>t"
+          },
+          {
+            "id": "D",
+            "text": "t<u>ea</u>m"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "B",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án D theo đề bài.",
+        "questionType": "pronunciation"
+      },
+      {
+        "questionId": "q-19",
+        "questionNumber": 24,
+        "partTitle": "Part 6. Chọn từ khác loại",
+        "text": "A. reading \tB. good\t\tC. fun\t\tD. interesting",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Phương án C"
+          },
+          {
+            "id": "B",
+            "text": "Phương án D"
+          },
+          {
+            "id": "C",
+            "text": "Phương án B"
+          },
+          {
+            "id": "D",
+            "text": "Phương án A"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "D",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án A theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-17",
+        "questionNumber": 25,
+        "partTitle": "Part 6. Chọn từ khác loại",
+        "text": "Câu 17",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Project"
+          },
+          {
+            "id": "B",
+            "text": "do"
+          },
+          {
+            "id": "C",
+            "text": "game"
+          },
+          {
+            "id": "D",
+            "text": "problem"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "B",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án D theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-18",
+        "questionNumber": 26,
+        "partTitle": "Part 6. Chọn từ khác loại",
+        "text": "A. draw\tB. solve\t\tC. doing\t\tD. play",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Phương án D"
+          },
+          {
+            "id": "B",
+            "text": "Phương án B"
+          },
+          {
+            "id": "C",
+            "text": "Phương án C"
+          },
+          {
+            "id": "D",
+            "text": "Phương án A"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "C",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án C theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-17",
+        "questionNumber": 27,
+        "partTitle": "Part 6. Chọn từ khác loại",
+        "text": "A. problem\tB. Project\tC. game\t\tD. do",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Phương án D"
+          },
+          {
+            "id": "B",
+            "text": "Phương án B"
+          },
+          {
+            "id": "C",
+            "text": "Phương án C"
+          },
+          {
+            "id": "D",
+            "text": "Phương án A"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "A",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án D theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-19",
+        "questionNumber": 28,
+        "partTitle": "Part 6. Chọn từ khác loại",
+        "text": "Câu 19",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "reading"
+          },
+          {
+            "id": "B",
+            "text": "fun"
+          },
+          {
+            "id": "C",
+            "text": "good"
+          },
+          {
+            "id": "D",
+            "text": "interesting"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "A",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án A theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-20",
+        "questionNumber": 29,
+        "partTitle": "Part 6. Chọn từ khác loại",
+        "text": "A. dancing\tB. swimming\tC. different\tD. painting",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Phương án B"
+          },
+          {
+            "id": "B",
+            "text": "Phương án A"
+          },
+          {
+            "id": "C",
+            "text": "Phương án C"
+          },
+          {
+            "id": "D",
+            "text": "Phương án D"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "C",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án C theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-21",
+        "questionNumber": 30,
+        "partTitle": "Part 6. Chọn từ khác loại",
+        "text": "A. singer\tB. famous\tC. footballer\tD. Scientist",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Phương án D"
+          },
+          {
+            "id": "B",
+            "text": "Phương án B"
+          },
+          {
+            "id": "C",
+            "text": "Phương án A"
+          },
+          {
+            "id": "D",
+            "text": "Phương án C"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "B",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án B theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-34",
+        "questionNumber": 31,
+        "partTitle": "Part 7.",
+        "text": "Lisa is very ____. She always helps me with my homework.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "nice"
+          },
+          {
+            "id": "B",
+            "text": "active"
+          },
+          {
+            "id": "C",
+            "text": "friend"
+          },
+          {
+            "id": "D",
+            "text": "helpful"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "D",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án C theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-24",
+        "questionNumber": 32,
+        "partTitle": "Part 7.",
+        "text": "He likes reading books because he thinks it's ________.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "sunny"
+          },
+          {
+            "id": "B",
+            "text": "beautiful"
+          },
+          {
+            "id": "C",
+            "text": "interesting"
+          },
+          {
+            "id": "D",
+            "text": "kind"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "C",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án C theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-36",
+        "questionNumber": 33,
+        "partTitle": "Part 7.",
+        "text": "We often ____ new friends when we travel.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "invite"
+          },
+          {
+            "id": "B",
+            "text": "personality"
+          },
+          {
+            "id": "C",
+            "text": "make friends"
+          },
+          {
+            "id": "D",
+            "text": "appearance"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "C",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án B theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-35",
+        "questionNumber": 34,
+        "partTitle": "Part 7.",
+        "text": "Tom is ____. He loves to play sports every day.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "clever"
+          },
+          {
+            "id": "B",
+            "text": "helpful"
+          },
+          {
+            "id": "C",
+            "text": "friendly"
+          },
+          {
+            "id": "D",
+            "text": "active"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "D",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án C theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-27",
+        "questionNumber": 35,
+        "partTitle": "Part 7.",
+        "text": "_______ would you like to be? I’d like to be a driver.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "What"
+          },
+          {
+            "id": "B",
+            "text": "Who"
+          },
+          {
+            "id": "C",
+            "text": "Which"
+          },
+          {
+            "id": "D",
+            "text": "When"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "A",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án D theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-37",
+        "questionNumber": 36,
+        "partTitle": "Part 7.",
+        "text": "Jane is very ____. She has good ideas and solves problems quickly.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "clever"
+          },
+          {
+            "id": "B",
+            "text": "active"
+          },
+          {
+            "id": "C",
+            "text": "helpful"
+          },
+          {
+            "id": "D",
+            "text": "friendly"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "A",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án C theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-33",
+        "questionNumber": 37,
+        "partTitle": "Part 7.",
+        "text": "My best friend is ____. He comes from India.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Malaysian"
+          },
+          {
+            "id": "B",
+            "text": "American"
+          },
+          {
+            "id": "C",
+            "text": "Chinese"
+          },
+          {
+            "id": "D",
+            "text": "Indian"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "D",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án C theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-40",
+        "questionNumber": 38,
+        "partTitle": "Part 7.",
+        "text": "We ____ our friends to our house for a party.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "make friends"
+          },
+          {
+            "id": "B",
+            "text": "invite"
+          },
+          {
+            "id": "C",
+            "text": "personality"
+          },
+          {
+            "id": "D",
+            "text": "appearance"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "B",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án C theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-32",
+        "questionNumber": 39,
+        "partTitle": "Part 7.",
+        "text": "He likes playing games because he thinks it's ______",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "difficult"
+          },
+          {
+            "id": "B",
+            "text": "delicious"
+          },
+          {
+            "id": "C",
+            "text": "boring"
+          },
+          {
+            "id": "D",
+            "text": "fun"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "D",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án B theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-30",
+        "questionNumber": 40,
+        "partTitle": "Part 7.",
+        "text": "Where is the art room? - It's .................. the second floor.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "on &nbsp;&nbsp;"
+          },
+          {
+            "id": "B",
+            "text": "in &nbsp;&nbsp;"
+          },
+          {
+            "id": "C",
+            "text": "opposite &nbsp;&nbsp;"
+          },
+          {
+            "id": "D",
+            "text": "between"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "A",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án B theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-39",
+        "questionNumber": 41,
+        "partTitle": "Part 7.",
+        "text": "John is ____. He comes from the United States.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Malaysian"
+          },
+          {
+            "id": "B",
+            "text": "American"
+          },
+          {
+            "id": "C",
+            "text": "Australian"
+          },
+          {
+            "id": "D",
+            "text": "British"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "B",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án A theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-28",
+        "questionNumber": 42,
+        "partTitle": "Part 7.",
+        "text": "He is a gardener. He’d like to_____________",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "help sick people\tB. write stories."
+          },
+          {
+            "id": "B",
+            "text": "put out fires.&nbsp;\t\tD. grow plants"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "D",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án D theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-38",
+        "questionNumber": 43,
+        "partTitle": "Part 7.",
+        "text": "My foreign friends are very ____. They always smile and talk to me.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "clever"
+          },
+          {
+            "id": "B",
+            "text": "active"
+          },
+          {
+            "id": "C",
+            "text": "helpful"
+          },
+          {
+            "id": "D",
+            "text": "friendly"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "D",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án C theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-31",
+        "questionNumber": 44,
+        "partTitle": "Part 7.",
+        "text": "_______ her favourite school activity?",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "How's"
+          },
+          {
+            "id": "B",
+            "text": "What's&nbsp;"
+          },
+          {
+            "id": "C",
+            "text": "Where's&nbsp;"
+          },
+          {
+            "id": "D",
+            "text": "who’s"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "B",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án B theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-25",
+        "questionNumber": 45,
+        "partTitle": "Part 7.",
+        "text": "________ does she like solving maths problems?  Because It’s challenging.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Why"
+          },
+          {
+            "id": "B",
+            "text": "Who"
+          },
+          {
+            "id": "C",
+            "text": "when"
+          },
+          {
+            "id": "D",
+            "text": "What"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "A",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án D theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-23",
+        "questionNumber": 46,
+        "partTitle": "Part 7.",
+        "text": "She likes ________ projects.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "play"
+          },
+          {
+            "id": "B",
+            "text": "doing"
+          },
+          {
+            "id": "C",
+            "text": "solving"
+          },
+          {
+            "id": "D",
+            "text": "listen"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "B",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án A theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-29",
+        "questionNumber": 47,
+        "partTitle": "Part 7.",
+        "text": "........................ the English room? - It's on the ground floor.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Where"
+          },
+          {
+            "id": "B",
+            "text": "What's &nbsp;&nbsp;"
+          },
+          {
+            "id": "C",
+            "text": "What &nbsp;\t&nbsp;"
+          },
+          {
+            "id": "D",
+            "text": "Where's &nbsp;\t&nbsp;"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "D",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án B theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-22",
+        "questionNumber": 48,
+        "partTitle": "Part 7.",
+        "text": "His favourite school _______ is playing games.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "activity"
+          },
+          {
+            "id": "B",
+            "text": "food"
+          },
+          {
+            "id": "C",
+            "text": "subject"
+          },
+          {
+            "id": "D",
+            "text": "drink"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "A",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án B theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-26",
+        "questionNumber": 49,
+        "partTitle": "Part 7.",
+        "text": "Could ..........................the way to the music room?",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "I tell you"
+          },
+          {
+            "id": "B",
+            "text": "you tell me"
+          },
+          {
+            "id": "C",
+            "text": "you tell I"
+          },
+          {
+            "id": "D",
+            "text": "tell me"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "B",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án A theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-41",
+        "questionNumber": 50,
+        "partTitle": "Part 8. Đọc và chọn đáp án đúng",
+        "text": "Who are Nam's close friends?",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Anna and Mia.\t\t D. Peter and John."
+          },
+          {
+            "id": "B",
+            "text": "Kim and Linda. \tB. Tom and Jerry."
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "B",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án A theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-42",
+        "questionNumber": 51,
+        "partTitle": "Part 8. Đọc và chọn đáp án đúng",
+        "text": "Do they have the same favourite activities?",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "yes, they are"
+          },
+          {
+            "id": "B",
+            "text": "no, they aren’t"
+          },
+          {
+            "id": "C",
+            "text": "yes, they do"
+          },
+          {
+            "id": "D",
+            "text": "no, they don’t"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "D",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án B theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-45",
+        "questionNumber": 52,
+        "partTitle": "Part 8. Đọc và chọn đáp án đúng",
+        "text": "Why does Nam solve maths?",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "It’s boring."
+          },
+          {
+            "id": "B",
+            "text": "It’s difficult."
+          },
+          {
+            "id": "C",
+            "text": "It’s interesting."
+          },
+          {
+            "id": "D",
+            "text": "It’s fun."
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "C",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án B theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-44",
+        "questionNumber": 53,
+        "partTitle": "Part 8. Đọc và chọn đáp án đúng",
+        "text": "Why does Linda play games? Because________",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "It’s useless."
+          },
+          {
+            "id": "B",
+            "text": "It’s difficult."
+          },
+          {
+            "id": "C",
+            "text": "It’s boring."
+          },
+          {
+            "id": "D",
+            "text": "It’s fun."
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "D",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án C theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-43",
+        "questionNumber": 54,
+        "partTitle": "Part 8. Đọc và chọn đáp án đúng",
+        "text": "What does Kim like?",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Solving maths. \tD. Reading books."
+          },
+          {
+            "id": "B",
+            "text": "Playing games.\t B. Doing projects."
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "B",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án B theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-50",
+        "questionNumber": 55,
+        "partTitle": "Part 9. Đọc và chọn đáp án đúng",
+        "text": "How can I get to the library?",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "She likes doing projects."
+          },
+          {
+            "id": "B",
+            "text": "go upstairs and turn left. E. He likes reading books."
+          },
+          {
+            "id": "C",
+            "text": "Because she thinks it’s good for group work."
+          },
+          {
+            "id": "D",
+            "text": "Because he thinks it’s interesting."
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "B",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án D theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-49",
+        "questionNumber": 56,
+        "partTitle": "Part 9. Đọc và chọn đáp án đúng",
+        "text": "Why does she like doing projects?",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Because he thinks it’s interesting."
+          },
+          {
+            "id": "B",
+            "text": "go upstairs and turn left. E. He likes reading books."
+          },
+          {
+            "id": "C",
+            "text": "Because she thinks it’s good for group work."
+          },
+          {
+            "id": "D",
+            "text": "She likes doing projects."
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "C",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án A theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-46",
+        "questionNumber": 57,
+        "partTitle": "Part 9. Đọc và chọn đáp án đúng",
+        "text": "What school activity does he like?",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "She likes doing projects."
+          },
+          {
+            "id": "B",
+            "text": "go upstairs and turn left. E. He likes reading books."
+          },
+          {
+            "id": "C",
+            "text": "Because she thinks it’s good for group work."
+          },
+          {
+            "id": "D",
+            "text": "Because he thinks it’s interesting."
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "E",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án E theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-48",
+        "questionNumber": 58,
+        "partTitle": "Part 9. Đọc và chọn đáp án đúng",
+        "text": "What school activity does she like?",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "She likes doing projects."
+          },
+          {
+            "id": "B",
+            "text": "Because she thinks it’s good for group work."
+          },
+          {
+            "id": "C",
+            "text": "go upstairs and turn left. E. He likes reading books."
+          },
+          {
+            "id": "D",
+            "text": "Because he thinks it’s interesting."
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "A",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án B theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-47",
+        "questionNumber": 59,
+        "partTitle": "Part 9. Đọc và chọn đáp án đúng",
+        "text": "Why does he like reading books?",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "She likes doing projects."
+          },
+          {
+            "id": "B",
+            "text": "Because she thinks it’s good for group work."
+          },
+          {
+            "id": "C",
+            "text": "Because he thinks it’s interesting."
+          },
+          {
+            "id": "D",
+            "text": "go upstairs and turn left. E. He likes reading books."
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "C",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án C theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-54",
+        "questionNumber": 60,
+        "partTitle": "Part 10. Read and choose True or false   True (đúng), False (sai)",
+        "text": "Mai has a ceiling fan in her room.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Phương án D"
+          },
+          {
+            "id": "B",
+            "text": "Phương án A"
+          },
+          {
+            "id": "C",
+            "text": "Phương án C"
+          },
+          {
+            "id": "D",
+            "text": "Phương án B"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "B",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án A theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-55",
+        "questionNumber": 61,
+        "partTitle": "Part 10. Read and choose True or false   True (đúng), False (sai)",
+        "text": "There is a drinks cabinet in Mai’s living room.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Phương án D"
+          },
+          {
+            "id": "B",
+            "text": "Phương án A"
+          },
+          {
+            "id": "C",
+            "text": "Phương án C"
+          },
+          {
+            "id": "D",
+            "text": "Phương án B"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "B",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án A theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-53",
+        "questionNumber": 62,
+        "partTitle": "Part 10. Read and choose True or false   True (đúng), False (sai)",
+        "text": "Lan lives in a flat in the same district as Mai.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Phương án A"
+          },
+          {
+            "id": "B",
+            "text": "Phương án D"
+          },
+          {
+            "id": "C",
+            "text": "Phương án B"
+          },
+          {
+            "id": "D",
+            "text": "Phương án C"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "A",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án A theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-51",
+        "questionNumber": 63,
+        "partTitle": "Part 10. Read and choose True or false   True (đúng), False (sai)",
+        "text": "Mai lives in a tree house.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Phương án A"
+          },
+          {
+            "id": "B",
+            "text": "Phương án D"
+          },
+          {
+            "id": "C",
+            "text": "Phương án B"
+          },
+          {
+            "id": "D",
+            "text": "Phương án C"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "C",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án B theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-52",
+        "questionNumber": 64,
+        "partTitle": "Part 10. Read and choose True or false   True (đúng), False (sai)",
+        "text": "Mai’s villa is far from her school.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Phương án D"
+          },
+          {
+            "id": "B",
+            "text": "Phương án C"
+          },
+          {
+            "id": "C",
+            "text": "Phương án A"
+          },
+          {
+            "id": "D",
+            "text": "Phương án B"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "D",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án B theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-59",
+        "questionNumber": 65,
+        "partTitle": "Part 11.",
+        "text": "thinks / it’s / interesting / Because / he.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Phương án A"
+          },
+          {
+            "id": "B",
+            "text": "Phương án B"
+          },
+          {
+            "id": "C",
+            "text": "Phương án C"
+          },
+          {
+            "id": "D",
+            "text": "Phương án D"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "B",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án B theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-57",
+        "questionNumber": 66,
+        "partTitle": "Part 11.",
+        "text": "solving / He / maths / problems / likes.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "He likes solving maths problems."
+          },
+          {
+            "id": "B",
+            "text": "He likes maths problems solving."
+          },
+          {
+            "id": "C",
+            "text": "Likes he solving problems maths.<br>"
+          },
+          {
+            "id": "D",
+            "text": "He solving likes problems maths."
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "A",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án D theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-58",
+        "questionNumber": 67,
+        "partTitle": "Part 11.",
+        "text": "like / does / Why / he / it?",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Phương án C"
+          },
+          {
+            "id": "B",
+            "text": "Phương án D"
+          },
+          {
+            "id": "C",
+            "text": "Phương án B"
+          },
+          {
+            "id": "D",
+            "text": "Phương án A"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "D",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án A theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-56",
+        "questionNumber": 68,
+        "partTitle": "Part 11.",
+        "text": "What / does / your / activity / brother / like?",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "What does your brother like activity?"
+          },
+          {
+            "id": "B",
+            "text": "What brother does your activity like?"
+          },
+          {
+            "id": "C",
+            "text": "What activity does your brother like?<br>"
+          },
+          {
+            "id": "D",
+            "text": "What does like your brother activity?"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "C",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án B theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-60",
+        "questionNumber": 69,
+        "partTitle": "Part 11.",
+        "text": "does/ Why/ like/ She / books? / reading",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Phương án C"
+          },
+          {
+            "id": "B",
+            "text": "Phương án B"
+          },
+          {
+            "id": "C",
+            "text": "Phương án A"
+          },
+          {
+            "id": "D",
+            "text": "Phương án D"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "A",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án C theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-66",
+        "questionNumber": 70,
+        "partTitle": "Part 12. Chọn đáp án đúng",
+        "text": "Câu “ Đây là phòng ngủ của tôi?” được nói thế nào bằng tiếng Anh.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Those are my bedroom.\tD. What is your hobby?"
+          },
+          {
+            "id": "B",
+            "text": "This is your bedroom.\t\tB. This is my bedroom."
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "B",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án A theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-63",
+        "questionNumber": 71,
+        "partTitle": "Part 12. Chọn đáp án đúng",
+        "text": "Câu “ Mẹ bạn bao nhiêu tuổi.” được nói thế nào bằng tiếng Anh.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "How old is your father?\tB. How old are you?"
+          },
+          {
+            "id": "B",
+            "text": "how old is your sister?\t<mark>D. How old is your mother</mark>?"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "B",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án C theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-69",
+        "questionNumber": 72,
+        "partTitle": "Part 12. Chọn đáp án đúng",
+        "text": "Câu “ Những cái cửa sổ rất đẹp” được nói thế nào bằng tiếng Anh.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "The windows are nice\tD. I have a school bag."
+          },
+          {
+            "id": "B",
+            "text": "The windows is nice.\t\tB. The window is nice."
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "B",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án A theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-62",
+        "questionNumber": 73,
+        "partTitle": "Part 12. Chọn đáp án đúng",
+        "text": "Câu “ Phòng ngủ ở đâu?” được nói thế nào bằng tiếng Anh.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Phương án B"
+          },
+          {
+            "id": "B",
+            "text": "Phương án D"
+          },
+          {
+            "id": "C",
+            "text": "Phương án C"
+          },
+          {
+            "id": "D",
+            "text": "Phương án A"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "D",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án A theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-68",
+        "questionNumber": 74,
+        "partTitle": "Part 12. Chọn đáp án đúng",
+        "text": "Câu “ Có một cái bàn học sinh ở trong phòng.” được nói thế nào bằng tiếng Anh.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "How old is your father.\tB. How old are you."
+          },
+          {
+            "id": "B",
+            "text": "Where is your bedroom?\tD. There’s a desk in the room."
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "A",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án A theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-64",
+        "questionNumber": 75,
+        "partTitle": "Part 12. Chọn đáp án đúng",
+        "text": "Câu “ Xin phép cho em được ra ngoài” được nói thế nào bằng tiếng Anh. <mark>A. May I go out?</mark>\t\tB. May I sit down?",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Phương án D"
+          },
+          {
+            "id": "B",
+            "text": "Phương án A"
+          },
+          {
+            "id": "C",
+            "text": "Phương án B"
+          },
+          {
+            "id": "D",
+            "text": "Phương án C"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "B",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án A theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-75",
+        "questionNumber": 76,
+        "partTitle": "Part 12. Chọn đáp án đúng",
+        "text": "“ Bởi vì tôi muốn trở thành 1 giáo viên tiếng anh?” được nói bằng tiếng Anh thế nào?",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Phương án D"
+          },
+          {
+            "id": "B",
+            "text": "Phương án C"
+          },
+          {
+            "id": "C",
+            "text": "Phương án A"
+          },
+          {
+            "id": "D",
+            "text": "Phương án B"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "C",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án A theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-67",
+        "questionNumber": 77,
+        "partTitle": "Part 12. Chọn đáp án đúng",
+        "text": "Câu “ Phòng ngủ ở đâu?” được nói thế nào bằng tiếng Anh.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Where is the bedroom?\tD. What is your hobby?."
+          },
+          {
+            "id": "B",
+            "text": "Where is the kitchen?\tB. Where is your house?"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "B",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án A theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-61",
+        "questionNumber": 78,
+        "partTitle": "Part 12. Chọn đáp án đúng",
+        "text": "Câu “ Cái này màu gì?” được nói thế nào bằng tiếng Anh. <mark>A. What colour is it?</mark>\t\tB. What colour are they?.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Phương án A"
+          },
+          {
+            "id": "B",
+            "text": "Phương án C"
+          },
+          {
+            "id": "C",
+            "text": "Phương án D"
+          },
+          {
+            "id": "D",
+            "text": "Phương án B"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "A",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án A theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-71",
+        "questionNumber": 79,
+        "partTitle": "Part 12. Chọn đáp án đúng",
+        "text": "“Môn học yêu thích của bạn là gì?” được nói bằng tiếng Anh",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Phương án C"
+          },
+          {
+            "id": "B",
+            "text": "Phương án D"
+          },
+          {
+            "id": "C",
+            "text": "Phương án A"
+          },
+          {
+            "id": "D",
+            "text": "Phương án B"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "C",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án A theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-73",
+        "questionNumber": 80,
+        "partTitle": "Part 12. Chọn đáp án đúng",
+        "text": "“Hôm nay bạn học môn gì” được nói bằng tiếng Anh thế nào?",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "What is your favourite subject?\t\tD. Are those your pens?"
+          },
+          {
+            "id": "B",
+            "text": "Is that your pen?\t\t\t<mark>B. What subject do you have today?</mark>"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "B",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án A theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-72",
+        "questionNumber": 81,
+        "partTitle": "Part 12. Chọn đáp án đúng",
+        "text": "“Tại sao bạn thích mỹ thuật?” được nói bằng tiếng Anh thế nào?",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "My favourite subject is art.\t<mark>D. Why do you like art?</mark>"
+          },
+          {
+            "id": "B",
+            "text": "I like art?\t\t\tB. What is that?"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "A",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án C theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-65",
+        "questionNumber": 82,
+        "partTitle": "Part 12. Chọn đáp án đúng",
+        "text": "Câu “ Sở thích của bạn là gì?” được nói thế nào bằng tiếng Anh.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "What’s your name?\t\t<mark>B. What’s your hobby?</mark>"
+          },
+          {
+            "id": "B",
+            "text": "Who’s that?\t.\t\tD. What is this?."
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "A",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án A theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-74",
+        "questionNumber": 83,
+        "partTitle": "Part 12. Chọn đáp án đúng",
+        "text": "“Môn học yêu thích của tôi là Tiếng Anh” được nói bằng tiếng Anh thế nào?",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "What is your favourite subject?\tD. What colour is your book?"
+          },
+          {
+            "id": "B",
+            "text": "My favourite subject is music?\t<mark>B. My favourite subject is English?</mark>"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "B",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án A theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-70",
+        "questionNumber": 84,
+        "partTitle": "Part 12. Chọn đáp án đúng",
+        "text": "Câu “ Cánh cửa rất to?” được nói thế nào bằng tiếng Anh.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "The window is big.\t\tD. What is this?"
+          },
+          {
+            "id": "B",
+            "text": "The door is small\t\tB. The door is big,"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "B",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án A theo đề bài.",
+        "questionType": "multiple_choice"
+      }
+    ]
+  },
+  {
+    "id": "SUB-1792598803413",
+    "examId": "TEST-8802",
+    "studentName": "Hai",
+    "studentClass": "7a",
+    "studentId": "",
+    "score": 0.95,
+    "totalQuestions": 84,
+    "correctCount": 8,
+    "timeSpentSeconds": 73,
+    "violations": 0,
+    "attempt": 1,
+    "timestamp": "2026-10-21T16:02:54.729Z",
+    "answers": {
+      "q-3": "A",
+      "q-2": "C",
+      "q-4": "C",
+      "q-1": "C",
+      "q-6": "A",
+      "q-7": "C",
+      "q-8": "B",
+      "q-12": "B",
+      "q-16": "C",
+      "q-15": "B",
+      "q-13": "C",
+      "q-14": "C"
+    },
+    "questionSnapshots": [
+      {
+        "questionId": "q-3",
+        "questionNumber": 1,
+        "partTitle": "Part 1. Listen and number",
+        "text": "Câu 3",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Phương án C"
+          },
+          {
+            "id": "B",
+            "text": "Phương án A"
+          },
+          {
+            "id": "C",
+            "text": "Phương án D"
+          },
+          {
+            "id": "D",
+            "text": "Phương án B"
+          }
+        ],
+        "studentChoice": "A",
+        "correctAnswer": "B",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án A theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-2",
+        "questionNumber": 2,
+        "partTitle": "Part 1. Listen and number",
+        "text": "Câu 2",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Phương án D"
+          },
+          {
+            "id": "B",
+            "text": "Phương án B"
+          },
+          {
+            "id": "C",
+            "text": "Phương án C"
+          },
+          {
+            "id": "D",
+            "text": "Phương án A"
+          }
+        ],
+        "studentChoice": "C",
+        "correctAnswer": "C",
+        "isCorrect": true,
+        "explanation": "Chọn đáp án C theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-4",
+        "questionNumber": 3,
+        "partTitle": "Part 1. Listen and number",
+        "text": "Câu 4",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Phương án A"
+          },
+          {
+            "id": "B",
+            "text": "Phương án C"
+          },
+          {
+            "id": "C",
+            "text": "Phương án B"
+          },
+          {
+            "id": "D",
+            "text": "Phương án D"
+          }
+        ],
+        "studentChoice": "C",
+        "correctAnswer": "D",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án D theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-1",
+        "questionNumber": 4,
+        "partTitle": "Part 1. Listen and number",
+        "text": "Câu 1",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Phương án A"
+          },
+          {
+            "id": "B",
+            "text": "Phương án D"
+          },
+          {
+            "id": "C",
+            "text": "Phương án B"
+          },
+          {
+            "id": "D",
+            "text": "Phương án C"
+          }
+        ],
+        "studentChoice": "C",
+        "correctAnswer": "C",
+        "isCorrect": true,
+        "explanation": "Chọn đáp án B theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-5",
+        "questionNumber": 5,
+        "partTitle": "Part 2. Nghe và chọn",
+        "text": "Câu 5",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "cooking"
+          },
+          {
+            "id": "B",
+            "text": "doing project"
+          },
+          {
+            "id": "C",
+            "text": "singing"
+          },
+          {
+            "id": "D",
+            "text": "drawing"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "B",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án B theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-6",
+        "questionNumber": 6,
+        "partTitle": "Part 2. Nghe và chọn",
+        "text": "A. dancing\tB. doing project\t\tC. drawing pictures\tD. doing maths",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Phương án A"
+          },
+          {
+            "id": "B",
+            "text": "Phương án B"
+          },
+          {
+            "id": "C",
+            "text": "Phương án C"
+          },
+          {
+            "id": "D",
+            "text": "Phương án D"
+          }
+        ],
+        "studentChoice": "A",
+        "correctAnswer": "C",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án C theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-6",
+        "questionNumber": 7,
+        "partTitle": "Part 2. Nghe và chọn",
+        "text": "Câu 6",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "doing project"
+          },
+          {
+            "id": "B",
+            "text": "drawing pictures"
+          },
+          {
+            "id": "C",
+            "text": "doing maths"
+          },
+          {
+            "id": "D",
+            "text": "dancing"
+          }
+        ],
+        "studentChoice": "A",
+        "correctAnswer": "B",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án C theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-5",
+        "questionNumber": 8,
+        "partTitle": "Part 2. Nghe và chọn",
+        "text": "A. drawing\tB. doing project\t\tC. singing\t\tD. cooking",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Phương án D"
+          },
+          {
+            "id": "B",
+            "text": "Phương án B"
+          },
+          {
+            "id": "C",
+            "text": "Phương án C"
+          },
+          {
+            "id": "D",
+            "text": "Phương án A"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "B",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án B theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-7",
+        "questionNumber": 9,
+        "partTitle": "Part 3. Nghe và chọn từ có dấu trọng âm khác.",
+        "text": "A. solving \tB. downstairs \tC. because",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Phương án A"
+          },
+          {
+            "id": "B",
+            "text": "Phương án B"
+          },
+          {
+            "id": "C",
+            "text": "Phương án D"
+          },
+          {
+            "id": "D",
+            "text": "Phương án C"
+          }
+        ],
+        "studentChoice": "C",
+        "correctAnswer": "A",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án A theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-9",
+        "questionNumber": 10,
+        "partTitle": "Part 3. Nghe và chọn từ có dấu trọng âm khác.",
+        "text": "A. before \tB. guitar \tC. writing",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Phương án B"
+          },
+          {
+            "id": "B",
+            "text": "Phương án C"
+          },
+          {
+            "id": "C",
+            "text": "Phương án A"
+          },
+          {
+            "id": "D",
+            "text": "Phương án D"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "B",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án C theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-8",
+        "questionNumber": 11,
+        "partTitle": "Part 3. Nghe và chọn từ có dấu trọng âm khác.",
+        "text": "A. goodbye \tB. swimming \tC. enjoy",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Phương án B"
+          },
+          {
+            "id": "B",
+            "text": "Phương án A"
+          },
+          {
+            "id": "C",
+            "text": "Phương án D"
+          },
+          {
+            "id": "D",
+            "text": "Phương án C"
+          }
+        ],
+        "studentChoice": "B",
+        "correctAnswer": "A",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án B theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-10",
+        "questionNumber": 12,
+        "partTitle": "Part 4. Nghe và chọn",
+        "text": "He likes _______.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Phương án B"
+          },
+          {
+            "id": "B",
+            "text": "Phương án D"
+          },
+          {
+            "id": "C",
+            "text": "Phương án A"
+          },
+          {
+            "id": "D",
+            "text": "Phương án C"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "A",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án B theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-11",
+        "questionNumber": 13,
+        "partTitle": "Part 4. Nghe và chọn",
+        "text": "She likes _______________ because she thinks it's interesting.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Phương án B"
+          },
+          {
+            "id": "B",
+            "text": "Phương án A"
+          },
+          {
+            "id": "C",
+            "text": "Phương án C"
+          },
+          {
+            "id": "D",
+            "text": "Phương án D"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "B",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án A theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-12",
+        "questionNumber": 14,
+        "partTitle": "Part 5. Tìm từ có cách phát âm khác",
+        "text": "Câu 12",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "r<u>u</u>n"
+          },
+          {
+            "id": "B",
+            "text": "b<u>u</u>sy"
+          },
+          {
+            "id": "C",
+            "text": "f<u>u</u>n"
+          },
+          {
+            "id": "D",
+            "text": "l<u>u</u>nch"
+          }
+        ],
+        "studentChoice": "B",
+        "correctAnswer": "B",
+        "isCorrect": true,
+        "explanation": "Chọn đáp án C theo đề bài.",
+        "questionType": "pronunciation"
+      },
+      {
+        "questionId": "q-16",
+        "questionNumber": 15,
+        "partTitle": "Part 5. Tìm từ có cách phát âm khác",
+        "text": "Câu 16",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "g<u>o</u>"
+          },
+          {
+            "id": "B",
+            "text": "s<u>o</u>lve"
+          },
+          {
+            "id": "C",
+            "text": "h<u>o</u>t"
+          },
+          {
+            "id": "D",
+            "text": "pr<u>o</u>blem"
+          }
+        ],
+        "studentChoice": "C",
+        "correctAnswer": "A",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án D theo đề bài.",
+        "questionType": "pronunciation"
+      },
+      {
+        "questionId": "q-15",
+        "questionNumber": 16,
+        "partTitle": "Part 5. Tìm từ có cách phát âm khác",
+        "text": "Câu 15",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "r<u>ea</u>d"
+          },
+          {
+            "id": "B",
+            "text": "br<u>ea</u>d"
+          },
+          {
+            "id": "C",
+            "text": "t<u>ea</u>m"
+          },
+          {
+            "id": "D",
+            "text": "m<u>ea</u>t"
+          }
+        ],
+        "studentChoice": "B",
+        "correctAnswer": "B",
+        "isCorrect": true,
+        "explanation": "Chọn đáp án D theo đề bài.",
+        "questionType": "pronunciation"
+      },
+      {
+        "questionId": "q-13",
+        "questionNumber": 17,
+        "partTitle": "Part 5. Tìm từ có cách phát âm khác",
+        "text": "Câu 13",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "m<u>a</u>y"
+          },
+          {
+            "id": "B",
+            "text": "pl<u>a</u>y"
+          },
+          {
+            "id": "C",
+            "text": "dr<u>a</u>w"
+          },
+          {
+            "id": "D",
+            "text": "c<u>a</u>ke"
+          }
+        ],
+        "studentChoice": "C",
+        "correctAnswer": "C",
+        "isCorrect": true,
+        "explanation": "Chọn đáp án B theo đề bài.",
+        "questionType": "pronunciation"
+      },
+      {
+        "questionId": "q-12",
+        "questionNumber": 18,
+        "partTitle": "Part 5. Tìm từ có cách phát âm khác",
+        "text": "A. fun\tB. run\t\tC. busy\t\tD. lunch",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "<u>Ph</u>ương án D"
+          },
+          {
+            "id": "B",
+            "text": "<u>Ph</u>ương án C"
+          },
+          {
+            "id": "C",
+            "text": "<u>Ph</u>ương án B"
+          },
+          {
+            "id": "D",
+            "text": "<u>Ph</u>ương án A"
+          }
+        ],
+        "studentChoice": "B",
+        "correctAnswer": "B",
+        "isCorrect": true,
+        "explanation": "Chọn đáp án C theo đề bài.",
+        "questionType": "pronunciation"
+      },
+      {
+        "questionId": "q-13",
+        "questionNumber": 19,
+        "partTitle": "Part 5. Tìm từ có cách phát âm khác",
+        "text": "A. play\tB. draw\t\tC. may\t\tD. cake",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "<u>Ph</u>ương án C"
+          },
+          {
+            "id": "B",
+            "text": "<u>Ph</u>ương án A"
+          },
+          {
+            "id": "C",
+            "text": "<u>Ph</u>ương án B"
+          },
+          {
+            "id": "D",
+            "text": "<u>Ph</u>ương án D"
+          }
+        ],
+        "studentChoice": "C",
+        "correctAnswer": "C",
+        "isCorrect": true,
+        "explanation": "Chọn đáp án B theo đề bài.",
+        "questionType": "pronunciation"
+      },
+      {
+        "questionId": "q-16",
+        "questionNumber": 20,
+        "partTitle": "Part 5. Tìm từ có cách phát âm khác",
+        "text": "A. solve\tB. problem\tC. hot\t\tD. go",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "<u>Ph</u>ương án C"
+          },
+          {
+            "id": "B",
+            "text": "<u>Ph</u>ương án D"
+          },
+          {
+            "id": "C",
+            "text": "<u>Ph</u>ương án B"
+          },
+          {
+            "id": "D",
+            "text": "<u>Ph</u>ương án A"
+          }
+        ],
+        "studentChoice": "C",
+        "correctAnswer": "B",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án D theo đề bài.",
+        "questionType": "pronunciation"
+      },
+      {
+        "questionId": "q-14",
+        "questionNumber": 21,
+        "partTitle": "Part 5. Tìm từ có cách phát âm khác",
+        "text": "Câu 14",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "n<u>oo</u>dles"
+          },
+          {
+            "id": "B",
+            "text": "sch<u>oo</u>l"
+          },
+          {
+            "id": "C",
+            "text": "b<u>oo</u>k"
+          },
+          {
+            "id": "D",
+            "text": "z<u>oo</u>"
+          }
+        ],
+        "studentChoice": "C",
+        "correctAnswer": "C",
+        "isCorrect": true,
+        "explanation": "Chọn đáp án A theo đề bài.",
+        "questionType": "pronunciation"
+      },
+      {
+        "questionId": "q-14",
+        "questionNumber": 22,
+        "partTitle": "Part 5. Tìm từ có cách phát âm khác",
+        "text": "A. book\tB. zoo\t\tC. school\tD. noodles",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "<u>Ph</u>ương án A"
+          },
+          {
+            "id": "B",
+            "text": "<u>Ph</u>ương án D"
+          },
+          {
+            "id": "C",
+            "text": "<u>Ph</u>ương án C"
+          },
+          {
+            "id": "D",
+            "text": "<u>Ph</u>ương án B"
+          }
+        ],
+        "studentChoice": "C",
+        "correctAnswer": "A",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án A theo đề bài.",
+        "questionType": "pronunciation"
+      },
+      {
+        "questionId": "q-15",
+        "questionNumber": 23,
+        "partTitle": "Part 5. Tìm từ có cách phát âm khác",
+        "text": "A. read\tB. meat\t\tC. team\t\tD. bread",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "<u>Ph</u>ương án C"
+          },
+          {
+            "id": "B",
+            "text": "<u>Ph</u>ương án B"
+          },
+          {
+            "id": "C",
+            "text": "<u>Ph</u>ương án D"
+          },
+          {
+            "id": "D",
+            "text": "<u>Ph</u>ương án A"
+          }
+        ],
+        "studentChoice": "B",
+        "correctAnswer": "C",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án D theo đề bài.",
+        "questionType": "pronunciation"
+      },
+      {
+        "questionId": "q-21",
+        "questionNumber": 24,
+        "partTitle": "Part 6. Chọn từ khác loại",
+        "text": "A. singer\tB. famous\tC. footballer\tD. Scientist",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Phương án D"
+          },
+          {
+            "id": "B",
+            "text": "Phương án A"
+          },
+          {
+            "id": "C",
+            "text": "Phương án C"
+          },
+          {
+            "id": "D",
+            "text": "Phương án B"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "D",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án B theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-17",
+        "questionNumber": 25,
+        "partTitle": "Part 6. Chọn từ khác loại",
+        "text": "A. problem\tB. Project\tC. game\t\tD. do",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Phương án B"
+          },
+          {
+            "id": "B",
+            "text": "Phương án D"
+          },
+          {
+            "id": "C",
+            "text": "Phương án C"
+          },
+          {
+            "id": "D",
+            "text": "Phương án A"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "B",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án D theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-20",
+        "questionNumber": 26,
+        "partTitle": "Part 6. Chọn từ khác loại",
+        "text": "A. dancing\tB. swimming\tC. different\tD. painting",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Phương án C"
+          },
+          {
+            "id": "B",
+            "text": "Phương án B"
+          },
+          {
+            "id": "C",
+            "text": "Phương án D"
+          },
+          {
+            "id": "D",
+            "text": "Phương án A"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "A",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án C theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-17",
+        "questionNumber": 27,
+        "partTitle": "Part 6. Chọn từ khác loại",
+        "text": "Câu 17",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "game"
+          },
+          {
+            "id": "B",
+            "text": "Project"
+          },
+          {
+            "id": "C",
+            "text": "problem"
+          },
+          {
+            "id": "D",
+            "text": "do"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "D",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án D theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-18",
+        "questionNumber": 28,
+        "partTitle": "Part 6. Chọn từ khác loại",
+        "text": "A. draw\tB. solve\t\tC. doing\t\tD. play",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Phương án D"
+          },
+          {
+            "id": "B",
+            "text": "Phương án A"
+          },
+          {
+            "id": "C",
+            "text": "Phương án B"
+          },
+          {
+            "id": "D",
+            "text": "Phương án C"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "D",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án C theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-19",
+        "questionNumber": 29,
+        "partTitle": "Part 6. Chọn từ khác loại",
+        "text": "Câu 19",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "interesting"
+          },
+          {
+            "id": "B",
+            "text": "good"
+          },
+          {
+            "id": "C",
+            "text": "fun"
+          },
+          {
+            "id": "D",
+            "text": "reading"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "D",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án A theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-19",
+        "questionNumber": 30,
+        "partTitle": "Part 6. Chọn từ khác loại",
+        "text": "A. reading \tB. good\t\tC. fun\t\tD. interesting",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Phương án D"
+          },
+          {
+            "id": "B",
+            "text": "Phương án A"
+          },
+          {
+            "id": "C",
+            "text": "Phương án C"
+          },
+          {
+            "id": "D",
+            "text": "Phương án B"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "B",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án A theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-28",
+        "questionNumber": 31,
+        "partTitle": "Part 7.",
+        "text": "He is a gardener. He’d like to_____________",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "help sick people\tB. write stories."
+          },
+          {
+            "id": "B",
+            "text": "put out fires.&nbsp;\t\tD. grow plants"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "D",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án D theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-26",
+        "questionNumber": 32,
+        "partTitle": "Part 7.",
+        "text": "Could ..........................the way to the music room?",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "you tell I"
+          },
+          {
+            "id": "B",
+            "text": "I tell you"
+          },
+          {
+            "id": "C",
+            "text": "you tell me"
+          },
+          {
+            "id": "D",
+            "text": "tell me"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "C",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án A theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-37",
+        "questionNumber": 33,
+        "partTitle": "Part 7.",
+        "text": "Jane is very ____. She has good ideas and solves problems quickly.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "clever"
+          },
+          {
+            "id": "B",
+            "text": "friendly"
+          },
+          {
+            "id": "C",
+            "text": "helpful"
+          },
+          {
+            "id": "D",
+            "text": "active"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "A",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án C theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-22",
+        "questionNumber": 34,
+        "partTitle": "Part 7.",
+        "text": "His favourite school _______ is playing games.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "activity"
+          },
+          {
+            "id": "B",
+            "text": "food"
+          },
+          {
+            "id": "C",
+            "text": "drink"
+          },
+          {
+            "id": "D",
+            "text": "subject"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "A",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án B theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-29",
+        "questionNumber": 35,
+        "partTitle": "Part 7.",
+        "text": "........................ the English room? - It's on the ground floor.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Where's &nbsp;\t&nbsp;"
+          },
+          {
+            "id": "B",
+            "text": "What's &nbsp;&nbsp;"
+          },
+          {
+            "id": "C",
+            "text": "What &nbsp;\t&nbsp;"
+          },
+          {
+            "id": "D",
+            "text": "Where"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "A",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án B theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-31",
+        "questionNumber": 36,
+        "partTitle": "Part 7.",
+        "text": "_______ her favourite school activity?",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "who’s"
+          },
+          {
+            "id": "B",
+            "text": "Where's&nbsp;"
+          },
+          {
+            "id": "C",
+            "text": "What's&nbsp;"
+          },
+          {
+            "id": "D",
+            "text": "How's"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "C",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án B theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-40",
+        "questionNumber": 37,
+        "partTitle": "Part 7.",
+        "text": "We ____ our friends to our house for a party.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "make friends"
+          },
+          {
+            "id": "B",
+            "text": "personality"
+          },
+          {
+            "id": "C",
+            "text": "appearance"
+          },
+          {
+            "id": "D",
+            "text": "invite"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "D",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án C theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-25",
+        "questionNumber": 38,
+        "partTitle": "Part 7.",
+        "text": "________ does she like solving maths problems?  Because It’s challenging.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Why"
+          },
+          {
+            "id": "B",
+            "text": "Who"
+          },
+          {
+            "id": "C",
+            "text": "What"
+          },
+          {
+            "id": "D",
+            "text": "when"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "A",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án D theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-35",
+        "questionNumber": 39,
+        "partTitle": "Part 7.",
+        "text": "Tom is ____. He loves to play sports every day.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "clever"
+          },
+          {
+            "id": "B",
+            "text": "helpful"
+          },
+          {
+            "id": "C",
+            "text": "friendly"
+          },
+          {
+            "id": "D",
+            "text": "active"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "D",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án C theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-38",
+        "questionNumber": 40,
+        "partTitle": "Part 7.",
+        "text": "My foreign friends are very ____. They always smile and talk to me.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "helpful"
+          },
+          {
+            "id": "B",
+            "text": "friendly"
+          },
+          {
+            "id": "C",
+            "text": "active"
+          },
+          {
+            "id": "D",
+            "text": "clever"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "B",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án C theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-30",
+        "questionNumber": 41,
+        "partTitle": "Part 7.",
+        "text": "Where is the art room? - It's .................. the second floor.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "on &nbsp;&nbsp;"
+          },
+          {
+            "id": "B",
+            "text": "in &nbsp;&nbsp;"
+          },
+          {
+            "id": "C",
+            "text": "opposite &nbsp;&nbsp;"
+          },
+          {
+            "id": "D",
+            "text": "between"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "A",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án B theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-23",
+        "questionNumber": 42,
+        "partTitle": "Part 7.",
+        "text": "She likes ________ projects.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "doing"
+          },
+          {
+            "id": "B",
+            "text": "listen"
+          },
+          {
+            "id": "C",
+            "text": "play"
+          },
+          {
+            "id": "D",
+            "text": "solving"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "A",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án A theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-32",
+        "questionNumber": 43,
+        "partTitle": "Part 7.",
+        "text": "He likes playing games because he thinks it's ______",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "difficult"
+          },
+          {
+            "id": "B",
+            "text": "boring"
+          },
+          {
+            "id": "C",
+            "text": "fun"
+          },
+          {
+            "id": "D",
+            "text": "delicious"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "C",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án B theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-39",
+        "questionNumber": 44,
+        "partTitle": "Part 7.",
+        "text": "John is ____. He comes from the United States.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Australian"
+          },
+          {
+            "id": "B",
+            "text": "American"
+          },
+          {
+            "id": "C",
+            "text": "Malaysian"
+          },
+          {
+            "id": "D",
+            "text": "British"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "B",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án A theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-33",
+        "questionNumber": 45,
+        "partTitle": "Part 7.",
+        "text": "My best friend is ____. He comes from India.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Chinese"
+          },
+          {
+            "id": "B",
+            "text": "Indian"
+          },
+          {
+            "id": "C",
+            "text": "Malaysian"
+          },
+          {
+            "id": "D",
+            "text": "American"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "B",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án C theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-27",
+        "questionNumber": 46,
+        "partTitle": "Part 7.",
+        "text": "_______ would you like to be? I’d like to be a driver.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "When"
+          },
+          {
+            "id": "B",
+            "text": "Who"
+          },
+          {
+            "id": "C",
+            "text": "Which"
+          },
+          {
+            "id": "D",
+            "text": "What"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "D",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án D theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-24",
+        "questionNumber": 47,
+        "partTitle": "Part 7.",
+        "text": "He likes reading books because he thinks it's ________.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "kind"
+          },
+          {
+            "id": "B",
+            "text": "beautiful"
+          },
+          {
+            "id": "C",
+            "text": "interesting"
+          },
+          {
+            "id": "D",
+            "text": "sunny"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "C",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án C theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-36",
+        "questionNumber": 48,
+        "partTitle": "Part 7.",
+        "text": "We often ____ new friends when we travel.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "appearance"
+          },
+          {
+            "id": "B",
+            "text": "invite"
+          },
+          {
+            "id": "C",
+            "text": "personality"
+          },
+          {
+            "id": "D",
+            "text": "make friends"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "D",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án B theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-34",
+        "questionNumber": 49,
+        "partTitle": "Part 7.",
+        "text": "Lisa is very ____. She always helps me with my homework.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "helpful"
+          },
+          {
+            "id": "B",
+            "text": "nice"
+          },
+          {
+            "id": "C",
+            "text": "active"
+          },
+          {
+            "id": "D",
+            "text": "friend"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "A",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án C theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-43",
+        "questionNumber": 50,
+        "partTitle": "Part 8. Đọc và chọn đáp án đúng",
+        "text": "What does Kim like?",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Solving maths. \tD. Reading books."
+          },
+          {
+            "id": "B",
+            "text": "Playing games.\t B. Doing projects."
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "B",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án B theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-45",
+        "questionNumber": 51,
+        "partTitle": "Part 8. Đọc và chọn đáp án đúng",
+        "text": "Why does Nam solve maths?",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "It’s difficult."
+          },
+          {
+            "id": "B",
+            "text": "It’s boring."
+          },
+          {
+            "id": "C",
+            "text": "It’s fun."
+          },
+          {
+            "id": "D",
+            "text": "It’s interesting."
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "D",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án B theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-42",
+        "questionNumber": 52,
+        "partTitle": "Part 8. Đọc và chọn đáp án đúng",
+        "text": "Do they have the same favourite activities?",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "yes, they do"
+          },
+          {
+            "id": "B",
+            "text": "no, they aren’t"
+          },
+          {
+            "id": "C",
+            "text": "no, they don’t"
+          },
+          {
+            "id": "D",
+            "text": "yes, they are"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "C",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án B theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-44",
+        "questionNumber": 53,
+        "partTitle": "Part 8. Đọc và chọn đáp án đúng",
+        "text": "Why does Linda play games? Because________",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "It’s boring."
+          },
+          {
+            "id": "B",
+            "text": "It’s useless."
+          },
+          {
+            "id": "C",
+            "text": "It’s difficult."
+          },
+          {
+            "id": "D",
+            "text": "It’s fun."
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "D",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án C theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-41",
+        "questionNumber": 54,
+        "partTitle": "Part 8. Đọc và chọn đáp án đúng",
+        "text": "Who are Nam's close friends?",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Anna and Mia.\t\t D. Peter and John."
+          },
+          {
+            "id": "B",
+            "text": "Kim and Linda. \tB. Tom and Jerry."
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "B",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án A theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-47",
+        "questionNumber": 55,
+        "partTitle": "Part 9. Đọc và chọn đáp án đúng",
+        "text": "Why does he like reading books?",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Because she thinks it’s good for group work."
+          },
+          {
+            "id": "B",
+            "text": "Because he thinks it’s interesting."
+          },
+          {
+            "id": "C",
+            "text": "She likes doing projects."
+          },
+          {
+            "id": "D",
+            "text": "go upstairs and turn left. E. He likes reading books."
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "B",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án C theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-46",
+        "questionNumber": 56,
+        "partTitle": "Part 9. Đọc và chọn đáp án đúng",
+        "text": "What school activity does he like?",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "She likes doing projects."
+          },
+          {
+            "id": "B",
+            "text": "go upstairs and turn left. E. He likes reading books."
+          },
+          {
+            "id": "C",
+            "text": "Because she thinks it’s good for group work."
+          },
+          {
+            "id": "D",
+            "text": "Because he thinks it’s interesting."
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "E",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án E theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-49",
+        "questionNumber": 57,
+        "partTitle": "Part 9. Đọc và chọn đáp án đúng",
+        "text": "Why does she like doing projects?",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Because she thinks it’s good for group work."
+          },
+          {
+            "id": "B",
+            "text": "Because he thinks it’s interesting."
+          },
+          {
+            "id": "C",
+            "text": "go upstairs and turn left. E. He likes reading books."
+          },
+          {
+            "id": "D",
+            "text": "She likes doing projects."
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "A",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án A theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-48",
+        "questionNumber": 58,
+        "partTitle": "Part 9. Đọc và chọn đáp án đúng",
+        "text": "What school activity does she like?",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "She likes doing projects."
+          },
+          {
+            "id": "B",
+            "text": "Because she thinks it’s good for group work."
+          },
+          {
+            "id": "C",
+            "text": "go upstairs and turn left. E. He likes reading books."
+          },
+          {
+            "id": "D",
+            "text": "Because he thinks it’s interesting."
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "A",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án B theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-50",
+        "questionNumber": 59,
+        "partTitle": "Part 9. Đọc và chọn đáp án đúng",
+        "text": "How can I get to the library?",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "She likes doing projects."
+          },
+          {
+            "id": "B",
+            "text": "Because he thinks it’s interesting."
+          },
+          {
+            "id": "C",
+            "text": "go upstairs and turn left. E. He likes reading books."
+          },
+          {
+            "id": "D",
+            "text": "Because she thinks it’s good for group work."
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "C",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án D theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-51",
+        "questionNumber": 60,
+        "partTitle": "Part 10. Read and choose True or false   True (đúng), False (sai)",
+        "text": "Mai lives in a tree house.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Phương án D"
+          },
+          {
+            "id": "B",
+            "text": "Phương án A"
+          },
+          {
+            "id": "C",
+            "text": "Phương án B"
+          },
+          {
+            "id": "D",
+            "text": "Phương án C"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "C",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án B theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-54",
+        "questionNumber": 61,
+        "partTitle": "Part 10. Read and choose True or false   True (đúng), False (sai)",
+        "text": "Mai has a ceiling fan in her room.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Phương án D"
+          },
+          {
+            "id": "B",
+            "text": "Phương án C"
+          },
+          {
+            "id": "C",
+            "text": "Phương án A"
+          },
+          {
+            "id": "D",
+            "text": "Phương án B"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "C",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án A theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-55",
+        "questionNumber": 62,
+        "partTitle": "Part 10. Read and choose True or false   True (đúng), False (sai)",
+        "text": "There is a drinks cabinet in Mai’s living room.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Phương án D"
+          },
+          {
+            "id": "B",
+            "text": "Phương án C"
+          },
+          {
+            "id": "C",
+            "text": "Phương án A"
+          },
+          {
+            "id": "D",
+            "text": "Phương án B"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "C",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án A theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-53",
+        "questionNumber": 63,
+        "partTitle": "Part 10. Read and choose True or false   True (đúng), False (sai)",
+        "text": "Lan lives in a flat in the same district as Mai.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Phương án A"
+          },
+          {
+            "id": "B",
+            "text": "Phương án D"
+          },
+          {
+            "id": "C",
+            "text": "Phương án B"
+          },
+          {
+            "id": "D",
+            "text": "Phương án C"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "A",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án A theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-52",
+        "questionNumber": 64,
+        "partTitle": "Part 10. Read and choose True or false   True (đúng), False (sai)",
+        "text": "Mai’s villa is far from her school.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Phương án D"
+          },
+          {
+            "id": "B",
+            "text": "Phương án A"
+          },
+          {
+            "id": "C",
+            "text": "Phương án C"
+          },
+          {
+            "id": "D",
+            "text": "Phương án B"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "D",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án B theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-60",
+        "questionNumber": 65,
+        "partTitle": "Part 11.",
+        "text": "does/ Why/ like/ She / books? / reading",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Phương án B"
+          },
+          {
+            "id": "B",
+            "text": "Phương án D"
+          },
+          {
+            "id": "C",
+            "text": "Phương án C"
+          },
+          {
+            "id": "D",
+            "text": "Phương án A"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "C",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án C theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-57",
+        "questionNumber": 66,
+        "partTitle": "Part 11.",
+        "text": "solving / He / maths / problems / likes.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "He likes maths problems solving."
+          },
+          {
+            "id": "B",
+            "text": "He likes solving maths problems."
+          },
+          {
+            "id": "C",
+            "text": "Likes he solving problems maths.<br>"
+          },
+          {
+            "id": "D",
+            "text": "He solving likes problems maths."
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "B",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án D theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-58",
+        "questionNumber": 67,
+        "partTitle": "Part 11.",
+        "text": "like / does / Why / he / it?",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Phương án B"
+          },
+          {
+            "id": "B",
+            "text": "Phương án A"
+          },
+          {
+            "id": "C",
+            "text": "Phương án C"
+          },
+          {
+            "id": "D",
+            "text": "Phương án D"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "B",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án A theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-56",
+        "questionNumber": 68,
+        "partTitle": "Part 11.",
+        "text": "What / does / your / activity / brother / like?",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "What brother does your activity like?"
+          },
+          {
+            "id": "B",
+            "text": "What does your brother like activity?"
+          },
+          {
+            "id": "C",
+            "text": "What does like your brother activity?"
+          },
+          {
+            "id": "D",
+            "text": "What activity does your brother like?<br>"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "D",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án B theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-59",
+        "questionNumber": 69,
+        "partTitle": "Part 11.",
+        "text": "thinks / it’s / interesting / Because / he.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Phương án A"
+          },
+          {
+            "id": "B",
+            "text": "Phương án C"
+          },
+          {
+            "id": "C",
+            "text": "Phương án B"
+          },
+          {
+            "id": "D",
+            "text": "Phương án D"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "C",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án B theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-68",
+        "questionNumber": 70,
+        "partTitle": "Part 12. Chọn đáp án đúng",
+        "text": "Câu “ Có một cái bàn học sinh ở trong phòng.” được nói thế nào bằng tiếng Anh.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Where is your bedroom?\tD. There’s a desk in the room."
+          },
+          {
+            "id": "B",
+            "text": "How old is your father.\tB. How old are you."
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "B",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án A theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-73",
+        "questionNumber": 71,
+        "partTitle": "Part 12. Chọn đáp án đúng",
+        "text": "“Hôm nay bạn học môn gì” được nói bằng tiếng Anh thế nào?",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Is that your pen?\t\t\t<mark>B. What subject do you have today?</mark>"
+          },
+          {
+            "id": "B",
+            "text": "What is your favourite subject?\t\tD. Are those your pens?"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "A",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án A theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-75",
+        "questionNumber": 72,
+        "partTitle": "Part 12. Chọn đáp án đúng",
+        "text": "“ Bởi vì tôi muốn trở thành 1 giáo viên tiếng anh?” được nói bằng tiếng Anh thế nào?",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Phương án D"
+          },
+          {
+            "id": "B",
+            "text": "Phương án B"
+          },
+          {
+            "id": "C",
+            "text": "Phương án A"
+          },
+          {
+            "id": "D",
+            "text": "Phương án C"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "C",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án A theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-72",
+        "questionNumber": 73,
+        "partTitle": "Part 12. Chọn đáp án đúng",
+        "text": "“Tại sao bạn thích mỹ thuật?” được nói bằng tiếng Anh thế nào?",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "I like art?\t\t\tB. What is that?"
+          },
+          {
+            "id": "B",
+            "text": "My favourite subject is art.\t<mark>D. Why do you like art?</mark>"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "B",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án C theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-74",
+        "questionNumber": 74,
+        "partTitle": "Part 12. Chọn đáp án đúng",
+        "text": "“Môn học yêu thích của tôi là Tiếng Anh” được nói bằng tiếng Anh thế nào?",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "What is your favourite subject?\tD. What colour is your book?"
+          },
+          {
+            "id": "B",
+            "text": "My favourite subject is music?\t<mark>B. My favourite subject is English?</mark>"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "B",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án A theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-71",
+        "questionNumber": 75,
+        "partTitle": "Part 12. Chọn đáp án đúng",
+        "text": "“Môn học yêu thích của bạn là gì?” được nói bằng tiếng Anh",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Phương án D"
+          },
+          {
+            "id": "B",
+            "text": "Phương án A"
+          },
+          {
+            "id": "C",
+            "text": "Phương án B"
+          },
+          {
+            "id": "D",
+            "text": "Phương án C"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "B",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án A theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-65",
+        "questionNumber": 76,
+        "partTitle": "Part 12. Chọn đáp án đúng",
+        "text": "Câu “ Sở thích của bạn là gì?” được nói thế nào bằng tiếng Anh.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "What’s your name?\t\t<mark>B. What’s your hobby?</mark>"
+          },
+          {
+            "id": "B",
+            "text": "Who’s that?\t.\t\tD. What is this?."
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "A",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án A theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-67",
+        "questionNumber": 77,
+        "partTitle": "Part 12. Chọn đáp án đúng",
+        "text": "Câu “ Phòng ngủ ở đâu?” được nói thế nào bằng tiếng Anh.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Where is the bedroom?\tD. What is your hobby?."
+          },
+          {
+            "id": "B",
+            "text": "Where is the kitchen?\tB. Where is your house?"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "B",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án A theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-64",
+        "questionNumber": 78,
+        "partTitle": "Part 12. Chọn đáp án đúng",
+        "text": "Câu “ Xin phép cho em được ra ngoài” được nói thế nào bằng tiếng Anh. <mark>A. May I go out?</mark>\t\tB. May I sit down?",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Phương án C"
+          },
+          {
+            "id": "B",
+            "text": "Phương án B"
+          },
+          {
+            "id": "C",
+            "text": "Phương án D"
+          },
+          {
+            "id": "D",
+            "text": "Phương án A"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "D",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án A theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-70",
+        "questionNumber": 79,
+        "partTitle": "Part 12. Chọn đáp án đúng",
+        "text": "Câu “ Cánh cửa rất to?” được nói thế nào bằng tiếng Anh.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "The window is big.\t\tD. What is this?"
+          },
+          {
+            "id": "B",
+            "text": "The door is small\t\tB. The door is big,"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "B",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án A theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-63",
+        "questionNumber": 80,
+        "partTitle": "Part 12. Chọn đáp án đúng",
+        "text": "Câu “ Mẹ bạn bao nhiêu tuổi.” được nói thế nào bằng tiếng Anh.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "how old is your sister?\t<mark>D. How old is your mother</mark>?"
+          },
+          {
+            "id": "B",
+            "text": "How old is your father?\tB. How old are you?"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "A",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án C theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-62",
+        "questionNumber": 81,
+        "partTitle": "Part 12. Chọn đáp án đúng",
+        "text": "Câu “ Phòng ngủ ở đâu?” được nói thế nào bằng tiếng Anh.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Phương án B"
+          },
+          {
+            "id": "B",
+            "text": "Phương án C"
+          },
+          {
+            "id": "C",
+            "text": "Phương án A"
+          },
+          {
+            "id": "D",
+            "text": "Phương án D"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "C",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án A theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-61",
+        "questionNumber": 82,
+        "partTitle": "Part 12. Chọn đáp án đúng",
+        "text": "Câu “ Cái này màu gì?” được nói thế nào bằng tiếng Anh. <mark>A. What colour is it?</mark>\t\tB. What colour are they?.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "Phương án D"
+          },
+          {
+            "id": "B",
+            "text": "Phương án B"
+          },
+          {
+            "id": "C",
+            "text": "Phương án A"
+          },
+          {
+            "id": "D",
+            "text": "Phương án C"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "C",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án A theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-66",
+        "questionNumber": 83,
+        "partTitle": "Part 12. Chọn đáp án đúng",
+        "text": "Câu “ Đây là phòng ngủ của tôi?” được nói thế nào bằng tiếng Anh.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "This is your bedroom.\t\tB. This is my bedroom."
+          },
+          {
+            "id": "B",
+            "text": "Those are my bedroom.\tD. What is your hobby?"
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "A",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án A theo đề bài.",
+        "questionType": "multiple_choice"
+      },
+      {
+        "questionId": "q-69",
+        "questionNumber": 84,
+        "partTitle": "Part 12. Chọn đáp án đúng",
+        "text": "Câu “ Những cái cửa sổ rất đẹp” được nói thế nào bằng tiếng Anh.",
+        "imageUrl": "",
+        "options": [
+          {
+            "id": "A",
+            "text": "The windows are nice\tD. I have a school bag."
+          },
+          {
+            "id": "B",
+            "text": "The windows is nice.\t\tB. The window is nice."
+          }
+        ],
+        "studentChoice": "",
+        "correctAnswer": "B",
+        "isCorrect": false,
+        "explanation": "Chọn đáp án A theo đề bài.",
+        "questionType": "multiple_choice"
+      }
+    ]
+  }
+]

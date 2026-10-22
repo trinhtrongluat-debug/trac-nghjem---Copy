@@ -1,0 +1,6 @@
+{
+  "name": "Smart Teacher Exam Creator & Online Testing Platform",
+  "description": "Nền tảng tạo đề thi trắc nghiệm thông minh tích hợp trợ lý Gemini AI từng phần, kiểm định 100% tick xanh, thi trực tuyến chống gian lận và đồng bộ kết quả Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
