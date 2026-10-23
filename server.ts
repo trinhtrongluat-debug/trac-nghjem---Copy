@@ -551,6 +551,72 @@ Hãy thực hiện yêu cầu và trả về JSON:
   }
 });
 
+// 2b. Generate Part or Specific Questions for a Part
+app.post('/api/gemini/generate-part-questions', async (req, res) => {
+  const { mode, partTitle, prompt, numQuestions, passageText, subject, customApiKey, modelName } = req.body;
+  const count = Math.max(1, Math.min(Number(numQuestions) || 5, 25));
+  const ai = getGenAIClient(customApiKey);
+  const selectedModel = modelName || 'gemini-3.8-flash';
+
+  const systemInstruction = `Bạn là chuyên gia giáo dục và khảo thí hàng đầu Việt Nam.
+Nhiệm vụ của bạn là tạo câu hỏi trắc nghiệm chất lượng cao, chuẩn mực sư phạm theo đúng yêu cầu của giáo viên.
+Quy tắc:
+1. Mỗi câu hỏi gồm:
+   - "text": Nội dung câu hỏi rõ ràng.
+   - "options": Mảng đúng 4 lựa chọn A, B, C, D (mỗi phần tử có "id": "A"|"B"|"C"|"D", "text": "nội dung").
+   - "correctAnswer": Một ký tự duy nhất trong ["A", "B", "C", "D"].
+   - "explanation": Giải thích bắt buộc mở đầu bằng: "Chọn đáp án [X] vì... [lập luận chi tiết]".
+   - "questionType": "multiple_choice" hoặc "pronunciation".
+   - "mixA": true.
+2. Với câu hỏi phát âm / trọng âm: BẮT BUỘC dùng thẻ <u>...</u> bọc phần chữ cái cần gạch chân kiểm tra phát âm (ví dụ: cl<u>ea</u>n, h<u>ea</u>d, look<u>ed</u>).
+3. Nếu giáo viên có cung cấp đoạn văn đọc hiểu (passageText) hoặc kịch bản nghe (audioScript), các câu hỏi phải bám sát ngữ liệu này.
+4. Trả về đúng định dạng JSON chuẩn.`;
+
+  const userPrompt = `Yêu cầu: Hãy tạo ${count} câu hỏi trắc nghiệm ${subject || 'Tiếng Anh'}.
+Yêu cầu cụ thể từ giáo viên: "${prompt || 'Tạo câu hỏi trắc nghiệm chuẩn kiến thức'}".
+${partTitle ? `Phần thi: "${partTitle}".` : ''}
+${passageText ? `Ngữ liệu đọc hiểu / Kịch bản tham chiếu:\n"""\n${passageText}\n"""\n` : ''}
+
+Trả về định dạng JSON:
+{
+  "title": "${partTitle || 'PART MỚI: CHỦ ĐỀ'}",
+  "passageText": ${passageText ? JSON.stringify(passageText) : '""'},
+  "audioScript": "",
+  "questions": [
+    {
+      "text": "Nội dung câu hỏi",
+      "options": [
+        { "id": "A", "text": "Phương án A" },
+        { "id": "B", "text": "Phương án B" },
+        { "id": "C", "text": "Phương án C" },
+        { "id": "D", "text": "Phương án D" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Chọn đáp án A vì...",
+      "questionType": "multiple_choice",
+      "mixA": true
+    }
+  ]
+}`;
+
+  try {
+    const response = await ai.models.generateContent({
+      model: selectedModel,
+      contents: userPrompt,
+      config: {
+        systemInstruction,
+        responseMimeType: 'application/json',
+      },
+    });
+
+    const parsed = JSON.parse(response.text || '{}');
+    res.json({ success: true, data: parsed });
+  } catch (error: any) {
+    console.error('Gemini generate-part-questions error:', error);
+    res.status(500).json({ error: error.message || 'Lỗi tạo câu hỏi bằng AI' });
+  }
+});
+
 // 3. AI Explanation Generator
 app.post('/api/gemini/generate-explanations', async (req, res) => {
   const { questions, customApiKey, modelName } = req.body;
